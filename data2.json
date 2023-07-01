@@ -1,0 +1,8002 @@
+[
+    {
+        "id": 1,
+        "train_name": "Nissan",
+        "from_station": "ACY",
+        "departure": "23:50",
+        "to_station": "HAE",
+        "arrival": "2:18"
+    },
+    {
+        "id": 2,
+        "train_name": "Mazda",
+        "from_station": "FSL",
+        "departure": "12:15",
+        "to_station": "UIQ",
+        "arrival": "12:36"
+    },
+    {
+        "id": 3,
+        "train_name": "MINI",
+        "from_station": "ORP",
+        "departure": "3:18",
+        "to_station": "SRQ",
+        "arrival": "11:36"
+    },
+    {
+        "id": 4,
+        "train_name": "Hyundai",
+        "from_station": "IDR",
+        "departure": "17:25",
+        "to_station": "CTP",
+        "arrival": "9:37"
+    },
+    {
+        "id": 5,
+        "train_name": "Chevrolet",
+        "from_station": "BHN",
+        "departure": "11:13",
+        "to_station": "XSB",
+        "arrival": "18:56"
+    },
+    {
+        "id": 6,
+        "train_name": "Ford",
+        "from_station": "YST",
+        "departure": "13:33",
+        "to_station": "YQV",
+        "arrival": "7:39"
+    },
+    {
+        "id": 7,
+        "train_name": "Chevrolet",
+        "from_station": "CRL",
+        "departure": "10:09",
+        "to_station": "NDS",
+        "arrival": "19:35"
+    },
+    {
+        "id": 8,
+        "train_name": "Nissan",
+        "from_station": "BIQ",
+        "departure": "20:09",
+        "to_station": "TRU",
+        "arrival": "13:07"
+    },
+    {
+        "id": 9,
+        "train_name": "Infiniti",
+        "from_station": "TAI",
+        "departure": "11:47",
+        "to_station": "YWP",
+        "arrival": "14:19"
+    },
+    {
+        "id": 10,
+        "train_name": "Ford",
+        "from_station": "LNG",
+        "departure": "4:58",
+        "to_station": "PWA",
+        "arrival": "14:46"
+    },
+    {
+        "id": 11,
+        "train_name": "Toyota",
+        "from_station": "NPO",
+        "departure": "14:54",
+        "to_station": "ACB",
+        "arrival": "23:22"
+    },
+    {
+        "id": 12,
+        "train_name": "Pontiac",
+        "from_station": "SRA",
+        "departure": "0:05",
+        "to_station": "DPK",
+        "arrival": "20:53"
+    },
+    {
+        "id": 13,
+        "train_name": "Mitsubishi",
+        "from_station": "KEB",
+        "departure": "2:34",
+        "to_station": "AQY",
+        "arrival": "23:25"
+    },
+    {
+        "id": 14,
+        "train_name": "Acura",
+        "from_station": "AZO",
+        "departure": "22:12",
+        "to_station": "BGD",
+        "arrival": "12:57"
+    },
+    {
+        "id": 15,
+        "train_name": "Isuzu",
+        "from_station": "XCO",
+        "departure": "2:49",
+        "to_station": "NMA",
+        "arrival": "4:35"
+    },
+    {
+        "id": 16,
+        "train_name": "Audi",
+        "from_station": "ILI",
+        "departure": "15:20",
+        "to_station": "TMC",
+        "arrival": "6:34"
+    },
+    {
+        "id": 17,
+        "train_name": "Ford",
+        "from_station": "IDI",
+        "departure": "5:58",
+        "to_station": "BBR",
+        "arrival": "23:57"
+    },
+    {
+        "id": 18,
+        "train_name": "Land Rover",
+        "from_station": "BJC",
+        "departure": "7:11",
+        "to_station": "YMU",
+        "arrival": "14:36"
+    },
+    {
+        "id": 19,
+        "train_name": "Cadillac",
+        "from_station": "SDH",
+        "departure": "14:30",
+        "to_station": "ZUM",
+        "arrival": "13:50"
+    },
+    {
+        "id": 20,
+        "train_name": "Ford",
+        "from_station": "BKY",
+        "departure": "18:33",
+        "to_station": "YBL",
+        "arrival": "23:01"
+    },
+    {
+        "id": 21,
+        "train_name": "Jaguar",
+        "from_station": "RNJ",
+        "departure": "2:03",
+        "to_station": "AUD",
+        "arrival": "9:05"
+    },
+    {
+        "id": 22,
+        "train_name": "GMC",
+        "from_station": "HRL",
+        "departure": "16:39",
+        "to_station": "AOO",
+        "arrival": "7:56"
+    },
+    {
+        "id": 23,
+        "train_name": "Dodge",
+        "from_station": "CSE",
+        "departure": "2:05",
+        "to_station": "PZO",
+        "arrival": "6:17"
+    },
+    {
+        "id": 24,
+        "train_name": "Ford",
+        "from_station": "PIX",
+        "departure": "21:12",
+        "to_station": "ZHM",
+        "arrival": "18:11"
+    },
+    {
+        "id": 25,
+        "train_name": "Saturn",
+        "from_station": "PUT",
+        "departure": "8:10",
+        "to_station": "NSE",
+        "arrival": "20:06"
+    },
+    {
+        "id": 26,
+        "train_name": "Maserati",
+        "from_station": "MBB",
+        "departure": "12:36",
+        "to_station": "DAA",
+        "arrival": "19:00"
+    },
+    {
+        "id": 27,
+        "train_name": "Toyota",
+        "from_station": "0",
+        "departure": "20:08",
+        "to_station": "LCE",
+        "arrival": "17:33"
+    },
+    {
+        "id": 28,
+        "train_name": "BMW",
+        "from_station": "0",
+        "departure": "17:40",
+        "to_station": "MCD",
+        "arrival": "2:12"
+    },
+    {
+        "id": 29,
+        "train_name": "Toyota",
+        "from_station": "XKH",
+        "departure": "5:22",
+        "to_station": "ZAG",
+        "arrival": "14:39"
+    },
+    {
+        "id": 30,
+        "train_name": "Volvo",
+        "from_station": "FEG",
+        "departure": "13:31",
+        "to_station": "REP",
+        "arrival": "3:48"
+    },
+    {
+        "id": 31,
+        "train_name": "Ford",
+        "from_station": "BRA",
+        "departure": "17:44",
+        "to_station": "GLO",
+        "arrival": "18:31"
+    },
+    {
+        "id": 32,
+        "train_name": "Oldsmobile",
+        "from_station": "ESR",
+        "departure": "15:47",
+        "to_station": "TYE",
+        "arrival": "2:42"
+    },
+    {
+        "id": 33,
+        "train_name": "Mitsubishi",
+        "from_station": "YNH",
+        "departure": "23:18",
+        "to_station": "EBD",
+        "arrival": "20:18"
+    },
+    {
+        "id": 34,
+        "train_name": "Isuzu",
+        "from_station": "UUD",
+        "departure": "1:52",
+        "to_station": "LED",
+        "arrival": "20:56"
+    },
+    {
+        "id": 35,
+        "train_name": "Acura",
+        "from_station": "AIP",
+        "departure": "23:42",
+        "to_station": "CCT",
+        "arrival": "15:33"
+    },
+    {
+        "id": 36,
+        "train_name": "Suzuki",
+        "from_station": "LTB",
+        "departure": "18:16",
+        "to_station": "CNB",
+        "arrival": "2:37"
+    },
+    {
+        "id": 37,
+        "train_name": "Chevrolet",
+        "from_station": "YFA",
+        "departure": "20:41",
+        "to_station": "YPI",
+        "arrival": "6:11"
+    },
+    {
+        "id": 38,
+        "train_name": "Dodge",
+        "from_station": "FTA",
+        "departure": "12:04",
+        "to_station": "FOB",
+        "arrival": "4:59"
+    },
+    {
+        "id": 39,
+        "train_name": "Jeep",
+        "from_station": "STW",
+        "departure": "7:50",
+        "to_station": "THN",
+        "arrival": "2:24"
+    },
+    {
+        "id": 40,
+        "train_name": "Cadillac",
+        "from_station": "CRU",
+        "departure": "11:36",
+        "to_station": "ILF",
+        "arrival": "18:10"
+    },
+    {
+        "id": 41,
+        "train_name": "Chevrolet",
+        "from_station": "LRV",
+        "departure": "23:31",
+        "to_station": "AFI",
+        "arrival": "1:37"
+    },
+    {
+        "id": 42,
+        "train_name": "Ford",
+        "from_station": "BIO",
+        "departure": "16:41",
+        "to_station": "WML",
+        "arrival": "12:57"
+    },
+    {
+        "id": 43,
+        "train_name": "Chevrolet",
+        "from_station": "YEG",
+        "departure": "7:01",
+        "to_station": "LIX",
+        "arrival": "17:43"
+    },
+    {
+        "id": 44,
+        "train_name": "Chrysler",
+        "from_station": "OLZ",
+        "departure": "6:22",
+        "to_station": "MVI",
+        "arrival": "14:00"
+    },
+    {
+        "id": 45,
+        "train_name": "Ford",
+        "from_station": "GUE",
+        "departure": "0:23",
+        "to_station": "GFY",
+        "arrival": "11:40"
+    },
+    {
+        "id": 46,
+        "train_name": "Toyota",
+        "from_station": "HKA",
+        "departure": "16:09",
+        "to_station": "HNS",
+        "arrival": "7:44"
+    },
+    {
+        "id": 47,
+        "train_name": "Volkswagen",
+        "from_station": "FUM",
+        "departure": "11:15",
+        "to_station": "VPN",
+        "arrival": "17:46"
+    },
+    {
+        "id": 48,
+        "train_name": "Nissan",
+        "from_station": "BIJ",
+        "departure": "13:33",
+        "to_station": "USR",
+        "arrival": "19:28"
+    },
+    {
+        "id": 49,
+        "train_name": "Lexus",
+        "from_station": "BZZ",
+        "departure": "1:29",
+        "to_station": "CDG",
+        "arrival": "3:57"
+    },
+    {
+        "id": 50,
+        "train_name": "Chevrolet",
+        "from_station": "AOO",
+        "departure": "15:11",
+        "to_station": "PBT",
+        "arrival": "3:53"
+    },
+    {
+        "id": 51,
+        "train_name": "Mercedes-Benz",
+        "from_station": "AHO",
+        "departure": "21:23",
+        "to_station": "MFC",
+        "arrival": "7:57"
+    },
+    {
+        "id": 52,
+        "train_name": "Toyota",
+        "from_station": "SRH",
+        "departure": "1:30",
+        "to_station": "BDC",
+        "arrival": "12:12"
+    },
+    {
+        "id": 53,
+        "train_name": "Mercedes-Benz",
+        "from_station": "AUV",
+        "departure": "0:29",
+        "to_station": "DAA",
+        "arrival": "13:16"
+    },
+    {
+        "id": 54,
+        "train_name": "Chevrolet",
+        "from_station": "MMY",
+        "departure": "21:51",
+        "to_station": "WAP",
+        "arrival": "19:54"
+    },
+    {
+        "id": 55,
+        "train_name": "Mercedes-Benz",
+        "from_station": "ADQ",
+        "departure": "14:21",
+        "to_station": "ELW",
+        "arrival": "0:34"
+    },
+    {
+        "id": 56,
+        "train_name": "Volkswagen",
+        "from_station": "GUO",
+        "departure": "11:10",
+        "to_station": "BCW",
+        "arrival": "15:20"
+    },
+    {
+        "id": 57,
+        "train_name": "Mercury",
+        "from_station": "MCH",
+        "departure": "20:49",
+        "to_station": "KBM",
+        "arrival": "18:03"
+    },
+    {
+        "id": 58,
+        "train_name": "Smart",
+        "from_station": "QJD",
+        "departure": "0:15",
+        "to_station": "DZI",
+        "arrival": "9:00"
+    },
+    {
+        "id": 59,
+        "train_name": "Mazda",
+        "from_station": "FUT",
+        "departure": "16:14",
+        "to_station": "BNT",
+        "arrival": "10:59"
+    },
+    {
+        "id": 60,
+        "train_name": "Mercedes-Benz",
+        "from_station": "MVC",
+        "departure": "7:27",
+        "to_station": "VAD",
+        "arrival": "18:18"
+    },
+    {
+        "id": 61,
+        "train_name": "Land Rover",
+        "from_station": "HZK",
+        "departure": "17:12",
+        "to_station": "FAS",
+        "arrival": "10:32"
+    },
+    {
+        "id": 62,
+        "train_name": "Mercedes-Benz",
+        "from_station": "HIA",
+        "departure": "21:43",
+        "to_station": "PJM",
+        "arrival": "13:16"
+    },
+    {
+        "id": 63,
+        "train_name": "Volkswagen",
+        "from_station": "TRW",
+        "departure": "22:09",
+        "to_station": "DSE",
+        "arrival": "20:27"
+    },
+    {
+        "id": 64,
+        "train_name": "Chevrolet",
+        "from_station": "MSM",
+        "departure": "16:32",
+        "to_station": "KBU",
+        "arrival": "7:14"
+    },
+    {
+        "id": 65,
+        "train_name": "Mercury",
+        "from_station": "DYA",
+        "departure": "21:07",
+        "to_station": "PQD",
+        "arrival": "14:26"
+    },
+    {
+        "id": 66,
+        "train_name": "Dodge",
+        "from_station": "RVH",
+        "departure": "10:13",
+        "to_station": "HEA",
+        "arrival": "5:42"
+    },
+    {
+        "id": 67,
+        "train_name": "Volkswagen",
+        "from_station": "VKG",
+        "departure": "15:11",
+        "to_station": "WSR",
+        "arrival": "23:33"
+    },
+    {
+        "id": 68,
+        "train_name": "Chevrolet",
+        "from_station": "SUE",
+        "departure": "1:38",
+        "to_station": "MJW",
+        "arrival": "11:36"
+    },
+    {
+        "id": 69,
+        "train_name": "Buick",
+        "from_station": "BUV",
+        "departure": "6:47",
+        "to_station": "MPZ",
+        "arrival": "4:58"
+    },
+    {
+        "id": 70,
+        "train_name": "Cadillac",
+        "from_station": "CQD",
+        "departure": "23:09",
+        "to_station": "CWC",
+        "arrival": "19:12"
+    },
+    {
+        "id": 71,
+        "train_name": "Toyota",
+        "from_station": "REX",
+        "departure": "13:16",
+        "to_station": "WPC",
+        "arrival": "23:28"
+    },
+    {
+        "id": 72,
+        "train_name": "Mercedes-Benz",
+        "from_station": "GXX",
+        "departure": "8:03",
+        "to_station": "JAU",
+        "arrival": "3:56"
+    },
+    {
+        "id": 73,
+        "train_name": "Chevrolet",
+        "from_station": "AAR",
+        "departure": "0:22",
+        "to_station": "KBX",
+        "arrival": "8:49"
+    },
+    {
+        "id": 74,
+        "train_name": "Jeep",
+        "from_station": "RSK",
+        "departure": "14:39",
+        "to_station": "SNR",
+        "arrival": "6:32"
+    },
+    {
+        "id": 75,
+        "train_name": "Suzuki",
+        "from_station": "DHG",
+        "departure": "4:08",
+        "to_station": "BAO",
+        "arrival": "4:15"
+    },
+    {
+        "id": 76,
+        "train_name": "Infiniti",
+        "from_station": "MCY",
+        "departure": "3:25",
+        "to_station": "0",
+        "arrival": "10:35"
+    },
+    {
+        "id": 77,
+        "train_name": "Nissan",
+        "from_station": "AKR",
+        "departure": "5:33",
+        "to_station": "ADO",
+        "arrival": "23:49"
+    },
+    {
+        "id": 78,
+        "train_name": "Ford",
+        "from_station": "TCO",
+        "departure": "22:29",
+        "to_station": "LMZ",
+        "arrival": "4:30"
+    },
+    {
+        "id": 79,
+        "train_name": "Chevrolet",
+        "from_station": "VNY",
+        "departure": "23:47",
+        "to_station": "EVG",
+        "arrival": "8:49"
+    },
+    {
+        "id": 80,
+        "train_name": "Cadillac",
+        "from_station": "CWA",
+        "departure": "20:26",
+        "to_station": "GWD",
+        "arrival": "15:00"
+    },
+    {
+        "id": 81,
+        "train_name": "Ford",
+        "from_station": "DOR",
+        "departure": "5:46",
+        "to_station": "AJR",
+        "arrival": "10:11"
+    },
+    {
+        "id": 82,
+        "train_name": "Mitsubishi",
+        "from_station": "TLU",
+        "departure": "4:53",
+        "to_station": "BRT",
+        "arrival": "22:38"
+    },
+    {
+        "id": 83,
+        "train_name": "Land Rover",
+        "from_station": "BFR",
+        "departure": "4:13",
+        "to_station": "YBV",
+        "arrival": "15:02"
+    },
+    {
+        "id": 84,
+        "train_name": "Chevrolet",
+        "from_station": "LSU",
+        "departure": "16:34",
+        "to_station": "FRM",
+        "arrival": "5:07"
+    },
+    {
+        "id": 85,
+        "train_name": "Chevrolet",
+        "from_station": "YKH",
+        "departure": "12:24",
+        "to_station": "EMI",
+        "arrival": "17:05"
+    },
+    {
+        "id": 86,
+        "train_name": "Audi",
+        "from_station": "LVM",
+        "departure": "18:38",
+        "to_station": "WIT",
+        "arrival": "8:05"
+    },
+    {
+        "id": 87,
+        "train_name": "Acura",
+        "from_station": "ULH",
+        "departure": "3:15",
+        "to_station": "CMD",
+        "arrival": "20:46"
+    },
+    {
+        "id": 88,
+        "train_name": "Chevrolet",
+        "from_station": "SCU",
+        "departure": "15:33",
+        "to_station": "RDU",
+        "arrival": "4:15"
+    },
+    {
+        "id": 89,
+        "train_name": "Mercury",
+        "from_station": "WSR",
+        "departure": "16:35",
+        "to_station": "HHI",
+        "arrival": "0:08"
+    },
+    {
+        "id": 90,
+        "train_name": "Lincoln",
+        "from_station": "SGC",
+        "departure": "13:24",
+        "to_station": "VYD",
+        "arrival": "8:14"
+    },
+    {
+        "id": 91,
+        "train_name": "Volkswagen",
+        "from_station": "OAR",
+        "departure": "7:57",
+        "to_station": "KME",
+        "arrival": "6:40"
+    },
+    {
+        "id": 92,
+        "train_name": "Land Rover",
+        "from_station": "BPL",
+        "departure": "1:49",
+        "to_station": "AAF",
+        "arrival": "12:55"
+    },
+    {
+        "id": 93,
+        "train_name": "Volvo",
+        "from_station": "KSB",
+        "departure": "13:21",
+        "to_station": "UAM",
+        "arrival": "20:03"
+    },
+    {
+        "id": 94,
+        "train_name": "Toyota",
+        "from_station": "BEM",
+        "departure": "4:19",
+        "to_station": "JCB",
+        "arrival": "21:57"
+    },
+    {
+        "id": 95,
+        "train_name": "Mercedes-Benz",
+        "from_station": "LFM",
+        "departure": "16:42",
+        "to_station": "OGU",
+        "arrival": "3:40"
+    },
+    {
+        "id": 96,
+        "train_name": "Audi",
+        "from_station": "DSM",
+        "departure": "21:00",
+        "to_station": "PUY",
+        "arrival": "22:42"
+    },
+    {
+        "id": 97,
+        "train_name": "Cadillac",
+        "from_station": "IFP",
+        "departure": "18:13",
+        "to_station": "RTA",
+        "arrival": "8:56"
+    },
+    {
+        "id": 98,
+        "train_name": "Pontiac",
+        "from_station": "KKO",
+        "departure": "17:43",
+        "to_station": "KSZ",
+        "arrival": "15:23"
+    },
+    {
+        "id": 99,
+        "train_name": "GMC",
+        "from_station": "CVI",
+        "departure": "18:10",
+        "to_station": "YMP",
+        "arrival": "7:51"
+    },
+    {
+        "id": 100,
+        "train_name": "Dodge",
+        "from_station": "WGO",
+        "departure": "17:43",
+        "to_station": "NRK",
+        "arrival": "20:15"
+    },
+    {
+        "id": 101,
+        "train_name": "Volkswagen",
+        "from_station": "TPT",
+        "departure": "14:06",
+        "to_station": "PUB",
+        "arrival": "3:10"
+    },
+    {
+        "id": 102,
+        "train_name": "Infiniti",
+        "from_station": "OXY",
+        "departure": "14:59",
+        "to_station": "LFT",
+        "arrival": "21:27"
+    },
+    {
+        "id": 103,
+        "train_name": "Suzuki",
+        "from_station": "0",
+        "departure": "15:58",
+        "to_station": "LCK",
+        "arrival": "13:08"
+    },
+    {
+        "id": 104,
+        "train_name": "Chrysler",
+        "from_station": "LPG",
+        "departure": "9:43",
+        "to_station": "BAL",
+        "arrival": "23:32"
+    },
+    {
+        "id": 105,
+        "train_name": "Chevrolet",
+        "from_station": "IQM",
+        "departure": "16:09",
+        "to_station": "FTY",
+        "arrival": "6:14"
+    },
+    {
+        "id": 106,
+        "train_name": "Mercedes-Benz",
+        "from_station": "BTY",
+        "departure": "16:09",
+        "to_station": "PQQ",
+        "arrival": "19:35"
+    },
+    {
+        "id": 107,
+        "train_name": "Chevrolet",
+        "from_station": "XIJ",
+        "departure": "3:35",
+        "to_station": "GCV",
+        "arrival": "8:41"
+    },
+    {
+        "id": 108,
+        "train_name": "Aston Martin",
+        "from_station": "AHD",
+        "departure": "22:44",
+        "to_station": "YWH",
+        "arrival": "12:22"
+    },
+    {
+        "id": 109,
+        "train_name": "Mercedes-Benz",
+        "from_station": "GEG",
+        "departure": "0:20",
+        "to_station": "SXP",
+        "arrival": "15:03"
+    },
+    {
+        "id": 110,
+        "train_name": "Chevrolet",
+        "from_station": "ILP",
+        "departure": "21:17",
+        "to_station": "0",
+        "arrival": "7:54"
+    },
+    {
+        "id": 111,
+        "train_name": "Mazda",
+        "from_station": "MAW",
+        "departure": "18:03",
+        "to_station": "VCH",
+        "arrival": "17:36"
+    },
+    {
+        "id": 112,
+        "train_name": "Lincoln",
+        "from_station": "YCO",
+        "departure": "1:56",
+        "to_station": "OUE",
+        "arrival": "18:16"
+    },
+    {
+        "id": 113,
+        "train_name": "Audi",
+        "from_station": "HPH",
+        "departure": "2:45",
+        "to_station": "STK",
+        "arrival": "15:45"
+    },
+    {
+        "id": 114,
+        "train_name": "Volkswagen",
+        "from_station": "ASC",
+        "departure": "11:57",
+        "to_station": "MQF",
+        "arrival": "1:51"
+    },
+    {
+        "id": 115,
+        "train_name": "Kia",
+        "from_station": "ASX",
+        "departure": "10:18",
+        "to_station": "AAQ",
+        "arrival": "23:47"
+    },
+    {
+        "id": 116,
+        "train_name": "Volvo",
+        "from_station": "YPN",
+        "departure": "9:44",
+        "to_station": "PMM",
+        "arrival": "6:43"
+    },
+    {
+        "id": 117,
+        "train_name": "Pontiac",
+        "from_station": "WIO",
+        "departure": "18:36",
+        "to_station": "0",
+        "arrival": "4:51"
+    },
+    {
+        "id": 118,
+        "train_name": "Maserati",
+        "from_station": "CZH",
+        "departure": "17:39",
+        "to_station": "EDM",
+        "arrival": "21:49"
+    },
+    {
+        "id": 119,
+        "train_name": "Pontiac",
+        "from_station": "YYN",
+        "departure": "22:29",
+        "to_station": "GED",
+        "arrival": "20:55"
+    },
+    {
+        "id": 120,
+        "train_name": "Fiat",
+        "from_station": "GEL",
+        "departure": "8:05",
+        "to_station": "MQM",
+        "arrival": "5:45"
+    },
+    {
+        "id": 121,
+        "train_name": "Volvo",
+        "from_station": "BUX",
+        "departure": "17:28",
+        "to_station": "PAF",
+        "arrival": "0:52"
+    },
+    {
+        "id": 122,
+        "train_name": "Ford",
+        "from_station": "NOC",
+        "departure": "0:58",
+        "to_station": "PNY",
+        "arrival": "5:54"
+    },
+    {
+        "id": 123,
+        "train_name": "Lamborghini",
+        "from_station": "CKE",
+        "departure": "21:16",
+        "to_station": "RGN",
+        "arrival": "11:33"
+    },
+    {
+        "id": 124,
+        "train_name": "Lincoln",
+        "from_station": "VDH",
+        "departure": "18:49",
+        "to_station": "MED",
+        "arrival": "9:08"
+    },
+    {
+        "id": 125,
+        "train_name": "Dodge",
+        "from_station": "WAP",
+        "departure": "9:16",
+        "to_station": "IQQ",
+        "arrival": "6:18"
+    },
+    {
+        "id": 126,
+        "train_name": "Porsche",
+        "from_station": "BCN",
+        "departure": "2:57",
+        "to_station": "KRA",
+        "arrival": "18:28"
+    },
+    {
+        "id": 127,
+        "train_name": "Ford",
+        "from_station": "OXD",
+        "departure": "8:39",
+        "to_station": "MLK",
+        "arrival": "11:14"
+    },
+    {
+        "id": 128,
+        "train_name": "Pontiac",
+        "from_station": "WTE",
+        "departure": "6:23",
+        "to_station": "PHB",
+        "arrival": "16:52"
+    },
+    {
+        "id": 129,
+        "train_name": "Nissan",
+        "from_station": "NOJ",
+        "departure": "6:42",
+        "to_station": "OSK",
+        "arrival": "6:38"
+    },
+    {
+        "id": 130,
+        "train_name": "Mercury",
+        "from_station": "TBL",
+        "departure": "9:17",
+        "to_station": "AHD",
+        "arrival": "13:59"
+    },
+    {
+        "id": 131,
+        "train_name": "Toyota",
+        "from_station": "SLJ",
+        "departure": "4:28",
+        "to_station": "GXY",
+        "arrival": "8:27"
+    },
+    {
+        "id": 132,
+        "train_name": "Mercury",
+        "from_station": "KDH",
+        "departure": "18:26",
+        "to_station": "DOI",
+        "arrival": "6:37"
+    },
+    {
+        "id": 133,
+        "train_name": "Mitsubishi",
+        "from_station": "HBE",
+        "departure": "12:30",
+        "to_station": "HOX",
+        "arrival": "12:56"
+    },
+    {
+        "id": 134,
+        "train_name": "Lincoln",
+        "from_station": "ATA",
+        "departure": "3:45",
+        "to_station": "MUQ",
+        "arrival": "13:42"
+    },
+    {
+        "id": 135,
+        "train_name": "GMC",
+        "from_station": "YYC",
+        "departure": "2:27",
+        "to_station": "BEZ",
+        "arrival": "23:03"
+    },
+    {
+        "id": 136,
+        "train_name": "Mazda",
+        "from_station": "AKW",
+        "departure": "18:14",
+        "to_station": "OMH",
+        "arrival": "21:14"
+    },
+    {
+        "id": 137,
+        "train_name": "Toyota",
+        "from_station": "FNC",
+        "departure": "13:43",
+        "to_station": "DNU",
+        "arrival": "17:55"
+    },
+    {
+        "id": 138,
+        "train_name": "Lamborghini",
+        "from_station": "KJP",
+        "departure": "19:35",
+        "to_station": "OWK",
+        "arrival": "9:05"
+    },
+    {
+        "id": 139,
+        "train_name": "Oldsmobile",
+        "from_station": "RFR",
+        "departure": "3:56",
+        "to_station": "RGI",
+        "arrival": "4:25"
+    },
+    {
+        "id": 140,
+        "train_name": "Mazda",
+        "from_station": "OUA",
+        "departure": "13:58",
+        "to_station": "MNU",
+        "arrival": "14:03"
+    },
+    {
+        "id": 141,
+        "train_name": "Chrysler",
+        "from_station": "FAT",
+        "departure": "15:12",
+        "to_station": "EDM",
+        "arrival": "11:33"
+    },
+    {
+        "id": 142,
+        "train_name": "Ford",
+        "from_station": "BGT",
+        "departure": "18:01",
+        "to_station": "RBS",
+        "arrival": "3:46"
+    },
+    {
+        "id": 143,
+        "train_name": "Mitsubishi",
+        "from_station": "CIR",
+        "departure": "23:57",
+        "to_station": "SIN",
+        "arrival": "14:48"
+    },
+    {
+        "id": 144,
+        "train_name": "Chevrolet",
+        "from_station": "FKN",
+        "departure": "4:54",
+        "to_station": "FKN",
+        "arrival": "9:28"
+    },
+    {
+        "id": 145,
+        "train_name": "Kia",
+        "from_station": "MBP",
+        "departure": "6:47",
+        "to_station": "VXE",
+        "arrival": "10:56"
+    },
+    {
+        "id": 146,
+        "train_name": "Audi",
+        "from_station": "IXP",
+        "departure": "2:19",
+        "to_station": "PXO",
+        "arrival": "11:49"
+    },
+    {
+        "id": 147,
+        "train_name": "Isuzu",
+        "from_station": "MES",
+        "departure": "6:25",
+        "to_station": "ENK",
+        "arrival": "15:04"
+    },
+    {
+        "id": 148,
+        "train_name": "Mercury",
+        "from_station": "UAH",
+        "departure": "8:10",
+        "to_station": "OVD",
+        "arrival": "19:28"
+    },
+    {
+        "id": 149,
+        "train_name": "Pontiac",
+        "from_station": "DAZ",
+        "departure": "11:08",
+        "to_station": "TCR",
+        "arrival": "0:38"
+    },
+    {
+        "id": 150,
+        "train_name": "Cadillac",
+        "from_station": "BBK",
+        "departure": "21:27",
+        "to_station": "WBO",
+        "arrival": "23:21"
+    },
+    {
+        "id": 151,
+        "train_name": "Ford",
+        "from_station": "PPA",
+        "departure": "14:33",
+        "to_station": "RZS",
+        "arrival": "20:53"
+    },
+    {
+        "id": 152,
+        "train_name": "Chevrolet",
+        "from_station": "HKY",
+        "departure": "7:50",
+        "to_station": "MUY",
+        "arrival": "2:15"
+    },
+    {
+        "id": 153,
+        "train_name": "Lexus",
+        "from_station": "RAM",
+        "departure": "21:06",
+        "to_station": "BQA",
+        "arrival": "4:52"
+    },
+    {
+        "id": 154,
+        "train_name": "Honda",
+        "from_station": "HIL",
+        "departure": "21:19",
+        "to_station": "LCB",
+        "arrival": "3:45"
+    },
+    {
+        "id": 155,
+        "train_name": "Maserati",
+        "from_station": "PCJ",
+        "departure": "9:30",
+        "to_station": "AMY",
+        "arrival": "1:06"
+    },
+    {
+        "id": 156,
+        "train_name": "GMC",
+        "from_station": "AZO",
+        "departure": "12:31",
+        "to_station": "NEC",
+        "arrival": "23:28"
+    },
+    {
+        "id": 157,
+        "train_name": "Ford",
+        "from_station": "TLP",
+        "departure": "0:05",
+        "to_station": "NBA",
+        "arrival": "5:38"
+    },
+    {
+        "id": 158,
+        "train_name": "Oldsmobile",
+        "from_station": "BKU",
+        "departure": "6:35",
+        "to_station": "YHO",
+        "arrival": "0:23"
+    },
+    {
+        "id": 159,
+        "train_name": "Saab",
+        "from_station": "KOR",
+        "departure": "3:22",
+        "to_station": "BMZ",
+        "arrival": "1:41"
+    },
+    {
+        "id": 160,
+        "train_name": "Pontiac",
+        "from_station": "OEA",
+        "departure": "20:40",
+        "to_station": "FFM",
+        "arrival": "14:11"
+    },
+    {
+        "id": 161,
+        "train_name": "Holden",
+        "from_station": "BXL",
+        "departure": "5:37",
+        "to_station": "TTT",
+        "arrival": "17:32"
+    },
+    {
+        "id": 162,
+        "train_name": "Audi",
+        "from_station": "PCM",
+        "departure": "11:04",
+        "to_station": "PAG",
+        "arrival": "9:18"
+    },
+    {
+        "id": 163,
+        "train_name": "Chrysler",
+        "from_station": "DJH",
+        "departure": "16:03",
+        "to_station": "LGM",
+        "arrival": "18:03"
+    },
+    {
+        "id": 164,
+        "train_name": "GMC",
+        "from_station": "DTD",
+        "departure": "23:38",
+        "to_station": "0",
+        "arrival": "11:14"
+    },
+    {
+        "id": 165,
+        "train_name": "Dodge",
+        "from_station": "APW",
+        "departure": "22:39",
+        "to_station": "LIF",
+        "arrival": "2:16"
+    },
+    {
+        "id": 166,
+        "train_name": "Plymouth",
+        "from_station": "ZYI",
+        "departure": "19:26",
+        "to_station": "EVH",
+        "arrival": "23:32"
+    },
+    {
+        "id": 167,
+        "train_name": "Chrysler",
+        "from_station": "LBE",
+        "departure": "1:57",
+        "to_station": "GXX",
+        "arrival": "13:05"
+    },
+    {
+        "id": 168,
+        "train_name": "Audi",
+        "from_station": "NCS",
+        "departure": "9:04",
+        "to_station": "GII",
+        "arrival": "9:56"
+    },
+    {
+        "id": 169,
+        "train_name": "Lexus",
+        "from_station": "VIV",
+        "departure": "15:06",
+        "to_station": "CWT",
+        "arrival": "7:03"
+    },
+    {
+        "id": 170,
+        "train_name": "Jeep",
+        "from_station": "MPY",
+        "departure": "10:33",
+        "to_station": "AGI",
+        "arrival": "10:36"
+    },
+    {
+        "id": 171,
+        "train_name": "Nissan",
+        "from_station": "XMS",
+        "departure": "11:07",
+        "to_station": "TRO",
+        "arrival": "0:02"
+    },
+    {
+        "id": 172,
+        "train_name": "Acura",
+        "from_station": "DLH",
+        "departure": "19:12",
+        "to_station": "CIT",
+        "arrival": "21:01"
+    },
+    {
+        "id": 173,
+        "train_name": "Jeep",
+        "from_station": "TIX",
+        "departure": "20:15",
+        "to_station": "CMW",
+        "arrival": "17:30"
+    },
+    {
+        "id": 174,
+        "train_name": "Alfa Romeo",
+        "from_station": "OTH",
+        "departure": "4:55",
+        "to_station": "IPN",
+        "arrival": "7:31"
+    },
+    {
+        "id": 175,
+        "train_name": "Morgan",
+        "from_station": "YXC",
+        "departure": "11:47",
+        "to_station": "WAH",
+        "arrival": "2:57"
+    },
+    {
+        "id": 176,
+        "train_name": "Mercury",
+        "from_station": "KBU",
+        "departure": "9:00",
+        "to_station": "FOD",
+        "arrival": "10:50"
+    },
+    {
+        "id": 177,
+        "train_name": "Volkswagen",
+        "from_station": "RNU",
+        "departure": "15:14",
+        "to_station": "COQ",
+        "arrival": "18:05"
+    },
+    {
+        "id": 178,
+        "train_name": "Ford",
+        "from_station": "ERV",
+        "departure": "7:02",
+        "to_station": "BNI",
+        "arrival": "0:09"
+    },
+    {
+        "id": 179,
+        "train_name": "Ford",
+        "from_station": "KEG",
+        "departure": "10:06",
+        "to_station": "SYC",
+        "arrival": "4:12"
+    },
+    {
+        "id": 180,
+        "train_name": "Ford",
+        "from_station": "IXM",
+        "departure": "7:05",
+        "to_station": "CUB",
+        "arrival": "12:25"
+    },
+    {
+        "id": 181,
+        "train_name": "Plymouth",
+        "from_station": "KSK",
+        "departure": "19:41",
+        "to_station": "VAS",
+        "arrival": "13:10"
+    },
+    {
+        "id": 182,
+        "train_name": "Chevrolet",
+        "from_station": "AOP",
+        "departure": "12:44",
+        "to_station": "RAT",
+        "arrival": "19:47"
+    },
+    {
+        "id": 183,
+        "train_name": "Honda",
+        "from_station": "LCO",
+        "departure": "3:29",
+        "to_station": "ZVG",
+        "arrival": "4:38"
+    },
+    {
+        "id": 184,
+        "train_name": "GMC",
+        "from_station": "ISE",
+        "departure": "3:17",
+        "to_station": "MXX",
+        "arrival": "22:57"
+    },
+    {
+        "id": 185,
+        "train_name": "Hyundai",
+        "from_station": "AKM",
+        "departure": "10:33",
+        "to_station": "YVR",
+        "arrival": "9:55"
+    },
+    {
+        "id": 186,
+        "train_name": "Isuzu",
+        "from_station": "FWL",
+        "departure": "11:39",
+        "to_station": "LGD",
+        "arrival": "7:53"
+    },
+    {
+        "id": 187,
+        "train_name": "Plymouth",
+        "from_station": "BGE",
+        "departure": "21:42",
+        "to_station": "TLB",
+        "arrival": "23:57"
+    },
+    {
+        "id": 188,
+        "train_name": "Porsche",
+        "from_station": "SVF",
+        "departure": "21:20",
+        "to_station": "LLE",
+        "arrival": "3:37"
+    },
+    {
+        "id": 189,
+        "train_name": "Ford",
+        "from_station": "IHO",
+        "departure": "22:04",
+        "to_station": "AIW",
+        "arrival": "6:25"
+    },
+    {
+        "id": 190,
+        "train_name": "Ford",
+        "from_station": "CEF",
+        "departure": "7:03",
+        "to_station": "IGA",
+        "arrival": "7:06"
+    },
+    {
+        "id": 191,
+        "train_name": "GMC",
+        "from_station": "ANN",
+        "departure": "10:40",
+        "to_station": "NAP",
+        "arrival": "1:52"
+    },
+    {
+        "id": 192,
+        "train_name": "Nissan",
+        "from_station": "OXB",
+        "departure": "19:58",
+        "to_station": "YLT",
+        "arrival": "4:33"
+    },
+    {
+        "id": 193,
+        "train_name": "Maybach",
+        "from_station": "AXL",
+        "departure": "10:24",
+        "to_station": "IIL",
+        "arrival": "9:36"
+    },
+    {
+        "id": 194,
+        "train_name": "Volvo",
+        "from_station": "MQV",
+        "departure": "1:47",
+        "to_station": "FID",
+        "arrival": "15:15"
+    },
+    {
+        "id": 195,
+        "train_name": "GMC",
+        "from_station": "SVL",
+        "departure": "16:49",
+        "to_station": "CVH",
+        "arrival": "12:29"
+    },
+    {
+        "id": 196,
+        "train_name": "Buick",
+        "from_station": "BPY",
+        "departure": "9:14",
+        "to_station": "GZW",
+        "arrival": "18:20"
+    },
+    {
+        "id": 197,
+        "train_name": "Saturn",
+        "from_station": "THC",
+        "departure": "8:34",
+        "to_station": "RXE",
+        "arrival": "6:00"
+    },
+    {
+        "id": 198,
+        "train_name": "Mercury",
+        "from_station": "BIG",
+        "departure": "7:58",
+        "to_station": "YND",
+        "arrival": "8:32"
+    },
+    {
+        "id": 199,
+        "train_name": "Dodge",
+        "from_station": "SKU",
+        "departure": "8:31",
+        "to_station": "LLX",
+        "arrival": "22:55"
+    },
+    {
+        "id": 200,
+        "train_name": "Saturn",
+        "from_station": "SQW",
+        "departure": "20:57",
+        "to_station": "ETM",
+        "arrival": "10:08"
+    },
+    {
+        "id": 201,
+        "train_name": "Aston Martin",
+        "from_station": "LPX",
+        "departure": "20:48",
+        "to_station": "CTF",
+        "arrival": "23:58"
+    },
+    {
+        "id": 202,
+        "train_name": "Hyundai",
+        "from_station": "SZX",
+        "departure": "8:39",
+        "to_station": "AQI",
+        "arrival": "15:25"
+    },
+    {
+        "id": 203,
+        "train_name": "Audi",
+        "from_station": "NUK",
+        "departure": "16:06",
+        "to_station": "BVF",
+        "arrival": "16:38"
+    },
+    {
+        "id": 204,
+        "train_name": "Volkswagen",
+        "from_station": "TNC",
+        "departure": "3:03",
+        "to_station": "SQF",
+        "arrival": "3:15"
+    },
+    {
+        "id": 205,
+        "train_name": "Mitsubishi",
+        "from_station": "IGN",
+        "departure": "13:27",
+        "to_station": "ZAG",
+        "arrival": "3:22"
+    },
+    {
+        "id": 206,
+        "train_name": "Mazda",
+        "from_station": "BLJ",
+        "departure": "4:32",
+        "to_station": "BLQ",
+        "arrival": "16:59"
+    },
+    {
+        "id": 207,
+        "train_name": "Plymouth",
+        "from_station": "LSX",
+        "departure": "7:23",
+        "to_station": "MFP",
+        "arrival": "13:24"
+    },
+    {
+        "id": 208,
+        "train_name": "Chevrolet",
+        "from_station": "MSJ",
+        "departure": "9:01",
+        "to_station": "VBV",
+        "arrival": "15:27"
+    },
+    {
+        "id": 209,
+        "train_name": "Kia",
+        "from_station": "AOG",
+        "departure": "23:03",
+        "to_station": "WFK",
+        "arrival": "23:05"
+    },
+    {
+        "id": 210,
+        "train_name": "Nissan",
+        "from_station": "BOM",
+        "departure": "5:09",
+        "to_station": "GVX",
+        "arrival": "1:06"
+    },
+    {
+        "id": 211,
+        "train_name": "Audi",
+        "from_station": "SKB",
+        "departure": "10:36",
+        "to_station": "SAZ",
+        "arrival": "19:56"
+    },
+    {
+        "id": 212,
+        "train_name": "Nissan",
+        "from_station": "UJN",
+        "departure": "10:05",
+        "to_station": "LPY",
+        "arrival": "4:10"
+    },
+    {
+        "id": 213,
+        "train_name": "Chevrolet",
+        "from_station": "AUV",
+        "departure": "21:26",
+        "to_station": "DOG",
+        "arrival": "13:53"
+    },
+    {
+        "id": 214,
+        "train_name": "GMC",
+        "from_station": "CUA",
+        "departure": "20:29",
+        "to_station": "EVV",
+        "arrival": "14:19"
+    },
+    {
+        "id": 215,
+        "train_name": "Chevrolet",
+        "from_station": "FLB",
+        "departure": "12:01",
+        "to_station": "GYN",
+        "arrival": "10:39"
+    },
+    {
+        "id": 216,
+        "train_name": "Pontiac",
+        "from_station": "WAM",
+        "departure": "3:57",
+        "to_station": "SVD",
+        "arrival": "6:49"
+    },
+    {
+        "id": 217,
+        "train_name": "Dodge",
+        "from_station": "LUF",
+        "departure": "10:07",
+        "to_station": "GYP",
+        "arrival": "23:25"
+    },
+    {
+        "id": 218,
+        "train_name": "Chevrolet",
+        "from_station": "GUP",
+        "departure": "13:07",
+        "to_station": "LUQ",
+        "arrival": "10:49"
+    },
+    {
+        "id": 219,
+        "train_name": "Lexus",
+        "from_station": "ORM",
+        "departure": "15:49",
+        "to_station": "CJB",
+        "arrival": "21:03"
+    },
+    {
+        "id": 220,
+        "train_name": "Toyota",
+        "from_station": "EGC",
+        "departure": "21:47",
+        "to_station": "WEF",
+        "arrival": "9:27"
+    },
+    {
+        "id": 221,
+        "train_name": "Dodge",
+        "from_station": "LOP",
+        "departure": "16:35",
+        "to_station": "TTI",
+        "arrival": "15:15"
+    },
+    {
+        "id": 222,
+        "train_name": "Subaru",
+        "from_station": "DUB",
+        "departure": "5:46",
+        "to_station": "OBE",
+        "arrival": "3:34"
+    },
+    {
+        "id": 223,
+        "train_name": "Mercedes-Benz",
+        "from_station": "SZY",
+        "departure": "18:57",
+        "to_station": "AYR",
+        "arrival": "6:10"
+    },
+    {
+        "id": 224,
+        "train_name": "Ford",
+        "from_station": "TDJ",
+        "departure": "18:33",
+        "to_station": "BQV",
+        "arrival": "12:32"
+    },
+    {
+        "id": 225,
+        "train_name": "Ford",
+        "from_station": "QBC",
+        "departure": "9:12",
+        "to_station": "BDZ",
+        "arrival": "0:39"
+    },
+    {
+        "id": 226,
+        "train_name": "Pontiac",
+        "from_station": "SVP",
+        "departure": "17:51",
+        "to_station": "YKQ",
+        "arrival": "14:34"
+    },
+    {
+        "id": 227,
+        "train_name": "Lexus",
+        "from_station": "LPS",
+        "departure": "4:59",
+        "to_station": "ZIG",
+        "arrival": "19:15"
+    },
+    {
+        "id": 228,
+        "train_name": "Lotus",
+        "from_station": "0",
+        "departure": "1:35",
+        "to_station": "OBC",
+        "arrival": "8:35"
+    },
+    {
+        "id": 229,
+        "train_name": "Infiniti",
+        "from_station": "MJX",
+        "departure": "9:10",
+        "to_station": "SIM",
+        "arrival": "22:04"
+    },
+    {
+        "id": 230,
+        "train_name": "Aston Martin",
+        "from_station": "SAG",
+        "departure": "15:26",
+        "to_station": "LMB",
+        "arrival": "6:22"
+    },
+    {
+        "id": 231,
+        "train_name": "Mercedes-Benz",
+        "from_station": "YQK",
+        "departure": "1:45",
+        "to_station": "YGR",
+        "arrival": "5:18"
+    },
+    {
+        "id": 232,
+        "train_name": "Chevrolet",
+        "from_station": "PHM",
+        "departure": "22:08",
+        "to_station": "OKL",
+        "arrival": "2:40"
+    },
+    {
+        "id": 233,
+        "train_name": "Ford",
+        "from_station": "IXR",
+        "departure": "11:18",
+        "to_station": "PDL",
+        "arrival": "18:43"
+    },
+    {
+        "id": 234,
+        "train_name": "Pontiac",
+        "from_station": "AAS",
+        "departure": "6:22",
+        "to_station": "EDO",
+        "arrival": "22:51"
+    },
+    {
+        "id": 235,
+        "train_name": "Lotus",
+        "from_station": "SBD",
+        "departure": "1:41",
+        "to_station": "KMM",
+        "arrival": "19:19"
+    },
+    {
+        "id": 236,
+        "train_name": "Ford",
+        "from_station": "EBG",
+        "departure": "13:29",
+        "to_station": "HRK",
+        "arrival": "3:45"
+    },
+    {
+        "id": 237,
+        "train_name": "Ford",
+        "from_station": "BTA",
+        "departure": "11:10",
+        "to_station": "KBI",
+        "arrival": "19:10"
+    },
+    {
+        "id": 238,
+        "train_name": "Suzuki",
+        "from_station": "PPD",
+        "departure": "7:35",
+        "to_station": "RGO",
+        "arrival": "10:37"
+    },
+    {
+        "id": 239,
+        "train_name": "Nissan",
+        "from_station": "KLU",
+        "departure": "16:10",
+        "to_station": "SWH",
+        "arrival": "6:09"
+    },
+    {
+        "id": 240,
+        "train_name": "GMC",
+        "from_station": "ROU",
+        "departure": "0:47",
+        "to_station": "BEA",
+        "arrival": "23:45"
+    },
+    {
+        "id": 241,
+        "train_name": "Chevrolet",
+        "from_station": "MTA",
+        "departure": "13:53",
+        "to_station": "MHN",
+        "arrival": "11:53"
+    },
+    {
+        "id": 242,
+        "train_name": "Porsche",
+        "from_station": "VDC",
+        "departure": "6:42",
+        "to_station": "ZNC",
+        "arrival": "4:13"
+    },
+    {
+        "id": 243,
+        "train_name": "Land Rover",
+        "from_station": "DKS",
+        "departure": "9:00",
+        "to_station": "ADG",
+        "arrival": "12:07"
+    },
+    {
+        "id": 244,
+        "train_name": "Ford",
+        "from_station": "SFF",
+        "departure": "23:26",
+        "to_station": "BAC",
+        "arrival": "15:23"
+    },
+    {
+        "id": 245,
+        "train_name": "Buick",
+        "from_station": "NSB",
+        "departure": "7:25",
+        "to_station": "PSV",
+        "arrival": "18:51"
+    },
+    {
+        "id": 246,
+        "train_name": "Cadillac",
+        "from_station": "ZBO",
+        "departure": "20:23",
+        "to_station": "NRD",
+        "arrival": "3:25"
+    },
+    {
+        "id": 247,
+        "train_name": "Cadillac",
+        "from_station": "CMO",
+        "departure": "22:45",
+        "to_station": "BPS",
+        "arrival": "5:48"
+    },
+    {
+        "id": 248,
+        "train_name": "Toyota",
+        "from_station": "ATJ",
+        "departure": "17:17",
+        "to_station": "NBS",
+        "arrival": "5:10"
+    },
+    {
+        "id": 249,
+        "train_name": "Mitsubishi",
+        "from_station": "MSY",
+        "departure": "23:25",
+        "to_station": "OXR",
+        "arrival": "18:18"
+    },
+    {
+        "id": 250,
+        "train_name": "Hyundai",
+        "from_station": "BSW",
+        "departure": "0:07",
+        "to_station": "SUB",
+        "arrival": "18:56"
+    },
+    {
+        "id": 251,
+        "train_name": "Isuzu",
+        "from_station": "NKL",
+        "departure": "20:42",
+        "to_station": "SSQ",
+        "arrival": "5:20"
+    },
+    {
+        "id": 252,
+        "train_name": "Daewoo",
+        "from_station": "KLX",
+        "departure": "1:57",
+        "to_station": "ARI",
+        "arrival": "13:47"
+    },
+    {
+        "id": 253,
+        "train_name": "Mercury",
+        "from_station": "IRB",
+        "departure": "20:13",
+        "to_station": "YBH",
+        "arrival": "18:04"
+    },
+    {
+        "id": 254,
+        "train_name": "Mazda",
+        "from_station": "ZAD",
+        "departure": "3:46",
+        "to_station": "SIJ",
+        "arrival": "10:07"
+    },
+    {
+        "id": 255,
+        "train_name": "Chevrolet",
+        "from_station": "DXB",
+        "departure": "20:43",
+        "to_station": "MYV",
+        "arrival": "9:39"
+    },
+    {
+        "id": 256,
+        "train_name": "Pontiac",
+        "from_station": "NQL",
+        "departure": "20:05",
+        "to_station": "TJH",
+        "arrival": "21:01"
+    },
+    {
+        "id": 257,
+        "train_name": "GMC",
+        "from_station": "RKE",
+        "departure": "5:04",
+        "to_station": "FAV",
+        "arrival": "8:11"
+    },
+    {
+        "id": 258,
+        "train_name": "Chevrolet",
+        "from_station": "ASL",
+        "departure": "22:35",
+        "to_station": "TSE",
+        "arrival": "18:41"
+    },
+    {
+        "id": 259,
+        "train_name": "Nissan",
+        "from_station": "CLQ",
+        "departure": "0:42",
+        "to_station": "HAU",
+        "arrival": "1:23"
+    },
+    {
+        "id": 260,
+        "train_name": "Acura",
+        "from_station": "FAO",
+        "departure": "11:46",
+        "to_station": "IGM",
+        "arrival": "20:19"
+    },
+    {
+        "id": 261,
+        "train_name": "GMC",
+        "from_station": "TLZ",
+        "departure": "17:06",
+        "to_station": "KEF",
+        "arrival": "8:49"
+    },
+    {
+        "id": 262,
+        "train_name": "BMW",
+        "from_station": "XIL",
+        "departure": "9:44",
+        "to_station": "AKY",
+        "arrival": "22:04"
+    },
+    {
+        "id": 263,
+        "train_name": "Maserati",
+        "from_station": "YNS",
+        "departure": "15:36",
+        "to_station": "BYA",
+        "arrival": "10:06"
+    },
+    {
+        "id": 264,
+        "train_name": "Suzuki",
+        "from_station": "SFG",
+        "departure": "6:11",
+        "to_station": "SJA",
+        "arrival": "0:52"
+    },
+    {
+        "id": 265,
+        "train_name": "Dodge",
+        "from_station": "DUM",
+        "departure": "13:23",
+        "to_station": "MAG",
+        "arrival": "2:55"
+    },
+    {
+        "id": 266,
+        "train_name": "Buick",
+        "from_station": "MBG",
+        "departure": "9:07",
+        "to_station": "MBG",
+        "arrival": "2:43"
+    },
+    {
+        "id": 267,
+        "train_name": "Toyota",
+        "from_station": "IMK",
+        "departure": "13:50",
+        "to_station": "EVE",
+        "arrival": "5:30"
+    },
+    {
+        "id": 268,
+        "train_name": "Honda",
+        "from_station": "WGY",
+        "departure": "6:44",
+        "to_station": "IFL",
+        "arrival": "0:38"
+    },
+    {
+        "id": 269,
+        "train_name": "Suzuki",
+        "from_station": "QHB",
+        "departure": "16:25",
+        "to_station": "LBL",
+        "arrival": "14:14"
+    },
+    {
+        "id": 270,
+        "train_name": "Chevrolet",
+        "from_station": "DQA",
+        "departure": "18:32",
+        "to_station": "PRA",
+        "arrival": "4:33"
+    },
+    {
+        "id": 271,
+        "train_name": "Honda",
+        "from_station": "JMB",
+        "departure": "0:52",
+        "to_station": "JAU",
+        "arrival": "4:16"
+    },
+    {
+        "id": 272,
+        "train_name": "Toyota",
+        "from_station": "RNZ",
+        "departure": "0:56",
+        "to_station": "KCZ",
+        "arrival": "15:57"
+    },
+    {
+        "id": 273,
+        "train_name": "Mercedes-Benz",
+        "from_station": "ZIG",
+        "departure": "3:23",
+        "to_station": "NAW",
+        "arrival": "5:48"
+    },
+    {
+        "id": 274,
+        "train_name": "Buick",
+        "from_station": "EGN",
+        "departure": "0:08",
+        "to_station": "LNN",
+        "arrival": "12:33"
+    },
+    {
+        "id": 275,
+        "train_name": "Lotus",
+        "from_station": "BRK",
+        "departure": "0:39",
+        "to_station": "ROD",
+        "arrival": "12:21"
+    },
+    {
+        "id": 276,
+        "train_name": "Mazda",
+        "from_station": "ANQ",
+        "departure": "5:23",
+        "to_station": "PDR",
+        "arrival": "16:44"
+    },
+    {
+        "id": 277,
+        "train_name": "Jaguar",
+        "from_station": "LCN",
+        "departure": "12:20",
+        "to_station": "CIG",
+        "arrival": "2:31"
+    },
+    {
+        "id": 278,
+        "train_name": "Aston Martin",
+        "from_station": "TAA",
+        "departure": "4:28",
+        "to_station": "YYT",
+        "arrival": "7:35"
+    },
+    {
+        "id": 279,
+        "train_name": "Dodge",
+        "from_station": "DRR",
+        "departure": "7:05",
+        "to_station": "AKH",
+        "arrival": "23:31"
+    },
+    {
+        "id": 280,
+        "train_name": "Toyota",
+        "from_station": "RCA",
+        "departure": "17:23",
+        "to_station": "EMX",
+        "arrival": "16:02"
+    },
+    {
+        "id": 281,
+        "train_name": "Mazda",
+        "from_station": "MAK",
+        "departure": "2:40",
+        "to_station": "DUK",
+        "arrival": "21:48"
+    },
+    {
+        "id": 282,
+        "train_name": "Audi",
+        "from_station": "HFN",
+        "departure": "3:25",
+        "to_station": "IOW",
+        "arrival": "20:53"
+    },
+    {
+        "id": 283,
+        "train_name": "Toyota",
+        "from_station": "TQS",
+        "departure": "20:44",
+        "to_station": "AMU",
+        "arrival": "4:38"
+    },
+    {
+        "id": 284,
+        "train_name": "Toyota",
+        "from_station": "SMI",
+        "departure": "4:56",
+        "to_station": "EZV",
+        "arrival": "8:56"
+    },
+    {
+        "id": 285,
+        "train_name": "BMW",
+        "from_station": "LLH",
+        "departure": "23:48",
+        "to_station": "BVU",
+        "arrival": "6:28"
+    },
+    {
+        "id": 286,
+        "train_name": "Mitsubishi",
+        "from_station": "IAS",
+        "departure": "3:10",
+        "to_station": "BFU",
+        "arrival": "9:22"
+    },
+    {
+        "id": 287,
+        "train_name": "Pontiac",
+        "from_station": "GAL",
+        "departure": "17:16",
+        "to_station": "AAM",
+        "arrival": "1:01"
+    },
+    {
+        "id": 288,
+        "train_name": "BMW",
+        "from_station": "NWT",
+        "departure": "1:45",
+        "to_station": "YTY",
+        "arrival": "18:45"
+    },
+    {
+        "id": 289,
+        "train_name": "Mitsubishi",
+        "from_station": "IHU",
+        "departure": "18:02",
+        "to_station": "SCU",
+        "arrival": "20:07"
+    },
+    {
+        "id": 290,
+        "train_name": "Lincoln",
+        "from_station": "ONP",
+        "departure": "7:28",
+        "to_station": "BCM",
+        "arrival": "8:32"
+    },
+    {
+        "id": 291,
+        "train_name": "Chevrolet",
+        "from_station": "CPI",
+        "departure": "22:10",
+        "to_station": "WCH",
+        "arrival": "9:14"
+    },
+    {
+        "id": 292,
+        "train_name": "Suzuki",
+        "from_station": "HUU",
+        "departure": "5:58",
+        "to_station": "JPN",
+        "arrival": "6:30"
+    },
+    {
+        "id": 293,
+        "train_name": "GMC",
+        "from_station": "QDY",
+        "departure": "12:10",
+        "to_station": "MUB",
+        "arrival": "5:52"
+    },
+    {
+        "id": 294,
+        "train_name": "Dodge",
+        "from_station": "MUQ",
+        "departure": "6:53",
+        "to_station": "DKV",
+        "arrival": "10:54"
+    },
+    {
+        "id": 295,
+        "train_name": "Mitsubishi",
+        "from_station": "HSK",
+        "departure": "3:00",
+        "to_station": "YXY",
+        "arrival": "20:53"
+    },
+    {
+        "id": 296,
+        "train_name": "Mitsubishi",
+        "from_station": "MMV",
+        "departure": "3:37",
+        "to_station": "MGX",
+        "arrival": "18:01"
+    },
+    {
+        "id": 297,
+        "train_name": "Lexus",
+        "from_station": "FCS",
+        "departure": "20:45",
+        "to_station": "PVL",
+        "arrival": "17:17"
+    },
+    {
+        "id": 298,
+        "train_name": "Honda",
+        "from_station": "ERT",
+        "departure": "8:21",
+        "to_station": "DJA",
+        "arrival": "20:37"
+    },
+    {
+        "id": 299,
+        "train_name": "Dodge",
+        "from_station": "UST",
+        "departure": "20:02",
+        "to_station": "GDJ",
+        "arrival": "15:24"
+    },
+    {
+        "id": 300,
+        "train_name": "Suzuki",
+        "from_station": "LBV",
+        "departure": "7:21",
+        "to_station": "SFF",
+        "arrival": "4:06"
+    },
+    {
+        "id": 301,
+        "train_name": "Kia",
+        "from_station": "0",
+        "departure": "22:30",
+        "to_station": "OGE",
+        "arrival": "11:54"
+    },
+    {
+        "id": 302,
+        "train_name": "Toyota",
+        "from_station": "VNT",
+        "departure": "3:19",
+        "to_station": "DYM",
+        "arrival": "16:52"
+    },
+    {
+        "id": 303,
+        "train_name": "Suzuki",
+        "from_station": "UDR",
+        "departure": "15:11",
+        "to_station": "TDO",
+        "arrival": "13:20"
+    },
+    {
+        "id": 304,
+        "train_name": "Buick",
+        "from_station": "JDP",
+        "departure": "12:12",
+        "to_station": "JPR",
+        "arrival": "1:39"
+    },
+    {
+        "id": 305,
+        "train_name": "Volvo",
+        "from_station": "YZG",
+        "departure": "19:09",
+        "to_station": "CXC",
+        "arrival": "1:42"
+    },
+    {
+        "id": 306,
+        "train_name": "Lexus",
+        "from_station": "MOQ",
+        "departure": "23:38",
+        "to_station": "ACU",
+        "arrival": "19:29"
+    },
+    {
+        "id": 307,
+        "train_name": "Jaguar",
+        "from_station": "IRG",
+        "departure": "0:38",
+        "to_station": "KEA",
+        "arrival": "9:03"
+    },
+    {
+        "id": 308,
+        "train_name": "Jeep",
+        "from_station": "DBT",
+        "departure": "12:18",
+        "to_station": "NJA",
+        "arrival": "14:00"
+    },
+    {
+        "id": 309,
+        "train_name": "Chevrolet",
+        "from_station": "KYA",
+        "departure": "16:06",
+        "to_station": "YQR",
+        "arrival": "16:43"
+    },
+    {
+        "id": 310,
+        "train_name": "Nissan",
+        "from_station": "ANN",
+        "departure": "0:43",
+        "to_station": "MHF",
+        "arrival": "12:37"
+    },
+    {
+        "id": 311,
+        "train_name": "Toyota",
+        "from_station": "LYH",
+        "departure": "17:29",
+        "to_station": "KOO",
+        "arrival": "5:51"
+    },
+    {
+        "id": 312,
+        "train_name": "Saturn",
+        "from_station": "VAW",
+        "departure": "5:20",
+        "to_station": "HEZ",
+        "arrival": "23:57"
+    },
+    {
+        "id": 313,
+        "train_name": "BMW",
+        "from_station": "ZBF",
+        "departure": "8:23",
+        "to_station": "UUS",
+        "arrival": "2:54"
+    },
+    {
+        "id": 314,
+        "train_name": "Audi",
+        "from_station": "YIO",
+        "departure": "23:37",
+        "to_station": "KZR",
+        "arrival": "5:28"
+    },
+    {
+        "id": 315,
+        "train_name": "GMC",
+        "from_station": "RIN",
+        "departure": "11:56",
+        "to_station": "CYP",
+        "arrival": "12:17"
+    },
+    {
+        "id": 316,
+        "train_name": "Chevrolet",
+        "from_station": "YTY",
+        "departure": "7:47",
+        "to_station": "TEO",
+        "arrival": "19:05"
+    },
+    {
+        "id": 317,
+        "train_name": "Mazda",
+        "from_station": "VBV",
+        "departure": "0:17",
+        "to_station": "TPF",
+        "arrival": "1:06"
+    },
+    {
+        "id": 318,
+        "train_name": "Suzuki",
+        "from_station": "TVY",
+        "departure": "16:42",
+        "to_station": "RPV",
+        "arrival": "12:05"
+    },
+    {
+        "id": 319,
+        "train_name": "Chevrolet",
+        "from_station": "SPB",
+        "departure": "12:09",
+        "to_station": "KAR",
+        "arrival": "20:19"
+    },
+    {
+        "id": 320,
+        "train_name": "Dodge",
+        "from_station": "CSE",
+        "departure": "23:43",
+        "to_station": "GLT",
+        "arrival": "22:32"
+    },
+    {
+        "id": 321,
+        "train_name": "Subaru",
+        "from_station": "VPZ",
+        "departure": "12:32",
+        "to_station": "SAW",
+        "arrival": "23:55"
+    },
+    {
+        "id": 322,
+        "train_name": "Volvo",
+        "from_station": "OZR",
+        "departure": "10:13",
+        "to_station": "CCT",
+        "arrival": "3:39"
+    },
+    {
+        "id": 323,
+        "train_name": "Land Rover",
+        "from_station": "OTP",
+        "departure": "18:19",
+        "to_station": "FAJ",
+        "arrival": "8:43"
+    },
+    {
+        "id": 324,
+        "train_name": "Lincoln",
+        "from_station": "BNJ",
+        "departure": "5:47",
+        "to_station": "LVL",
+        "arrival": "4:42"
+    },
+    {
+        "id": 325,
+        "train_name": "Ford",
+        "from_station": "REE",
+        "departure": "18:24",
+        "to_station": "QMF",
+        "arrival": "3:13"
+    },
+    {
+        "id": 326,
+        "train_name": "Jeep",
+        "from_station": "KBJ",
+        "departure": "16:04",
+        "to_station": "YZX",
+        "arrival": "9:41"
+    },
+    {
+        "id": 327,
+        "train_name": "Buick",
+        "from_station": "WTS",
+        "departure": "22:07",
+        "to_station": "KBV",
+        "arrival": "7:10"
+    },
+    {
+        "id": 328,
+        "train_name": "Mitsubishi",
+        "from_station": "JSH",
+        "departure": "8:10",
+        "to_station": "TKJ",
+        "arrival": "10:01"
+    },
+    {
+        "id": 329,
+        "train_name": "Ford",
+        "from_station": "AYO",
+        "departure": "16:35",
+        "to_station": "EBL",
+        "arrival": "0:18"
+    },
+    {
+        "id": 330,
+        "train_name": "Buick",
+        "from_station": "OMY",
+        "departure": "15:08",
+        "to_station": "CVI",
+        "arrival": "16:58"
+    },
+    {
+        "id": 331,
+        "train_name": "Volvo",
+        "from_station": "PMV",
+        "departure": "2:51",
+        "to_station": "AID",
+        "arrival": "8:40"
+    },
+    {
+        "id": 332,
+        "train_name": "GMC",
+        "from_station": "PBB",
+        "departure": "9:46",
+        "to_station": "NON",
+        "arrival": "6:05"
+    },
+    {
+        "id": 333,
+        "train_name": "Infiniti",
+        "from_station": "TAL",
+        "departure": "14:31",
+        "to_station": "HOP",
+        "arrival": "5:01"
+    },
+    {
+        "id": 334,
+        "train_name": "Mitsubishi",
+        "from_station": "CUC",
+        "departure": "22:47",
+        "to_station": "UCN",
+        "arrival": "1:15"
+    },
+    {
+        "id": 335,
+        "train_name": "Lincoln",
+        "from_station": "BUK",
+        "departure": "18:46",
+        "to_station": "RAK",
+        "arrival": "5:23"
+    },
+    {
+        "id": 336,
+        "train_name": "Ford",
+        "from_station": "TAI",
+        "departure": "12:58",
+        "to_station": "FLL",
+        "arrival": "8:25"
+    },
+    {
+        "id": 337,
+        "train_name": "Saturn",
+        "from_station": "ORD",
+        "departure": "5:54",
+        "to_station": "KMM",
+        "arrival": "0:41"
+    },
+    {
+        "id": 338,
+        "train_name": "Ford",
+        "from_station": "CEK",
+        "departure": "3:07",
+        "to_station": "KDH",
+        "arrival": "6:21"
+    },
+    {
+        "id": 339,
+        "train_name": "Hummer",
+        "from_station": "KJA",
+        "departure": "19:50",
+        "to_station": "UDR",
+        "arrival": "9:08"
+    },
+    {
+        "id": 340,
+        "train_name": "Honda",
+        "from_station": "REO",
+        "departure": "5:38",
+        "to_station": "DUF",
+        "arrival": "19:11"
+    },
+    {
+        "id": 341,
+        "train_name": "Porsche",
+        "from_station": "YTB",
+        "departure": "3:47",
+        "to_station": "PBC",
+        "arrival": "18:25"
+    },
+    {
+        "id": 342,
+        "train_name": "Chevrolet",
+        "from_station": "MRN",
+        "departure": "6:41",
+        "to_station": "BGJ",
+        "arrival": "7:11"
+    },
+    {
+        "id": 343,
+        "train_name": "Buick",
+        "from_station": "FSI",
+        "departure": "21:01",
+        "to_station": "TRI",
+        "arrival": "2:53"
+    },
+    {
+        "id": 344,
+        "train_name": "Kia",
+        "from_station": "KMZ",
+        "departure": "17:57",
+        "to_station": "BQG",
+        "arrival": "11:23"
+    },
+    {
+        "id": 345,
+        "train_name": "Plymouth",
+        "from_station": "AEG",
+        "departure": "23:36",
+        "to_station": "RCA",
+        "arrival": "9:40"
+    },
+    {
+        "id": 346,
+        "train_name": "Toyota",
+        "from_station": "RDN",
+        "departure": "18:29",
+        "to_station": "GLH",
+        "arrival": "20:52"
+    },
+    {
+        "id": 347,
+        "train_name": "Mazda",
+        "from_station": "OOR",
+        "departure": "16:34",
+        "to_station": "HLO",
+        "arrival": "16:40"
+    },
+    {
+        "id": 348,
+        "train_name": "Buick",
+        "from_station": "MYX",
+        "departure": "17:04",
+        "to_station": "JUJ",
+        "arrival": "17:40"
+    },
+    {
+        "id": 349,
+        "train_name": "Ford",
+        "from_station": "ILN",
+        "departure": "2:40",
+        "to_station": "FFD",
+        "arrival": "18:00"
+    },
+    {
+        "id": 350,
+        "train_name": "Isuzu",
+        "from_station": "SVP",
+        "departure": "5:31",
+        "to_station": "YIN",
+        "arrival": "4:24"
+    },
+    {
+        "id": 351,
+        "train_name": "Mitsubishi",
+        "from_station": "DHI",
+        "departure": "22:41",
+        "to_station": "TAL",
+        "arrival": "1:34"
+    },
+    {
+        "id": 352,
+        "train_name": "Ford",
+        "from_station": "AIV",
+        "departure": "9:31",
+        "to_station": "JAP",
+        "arrival": "19:11"
+    },
+    {
+        "id": 353,
+        "train_name": "Kia",
+        "from_station": "MWC",
+        "departure": "15:17",
+        "to_station": "MWG",
+        "arrival": "19:54"
+    },
+    {
+        "id": 354,
+        "train_name": "Dodge",
+        "from_station": "TBC",
+        "departure": "15:02",
+        "to_station": "AAG",
+        "arrival": "5:45"
+    },
+    {
+        "id": 355,
+        "train_name": "Mercury",
+        "from_station": "IMB",
+        "departure": "21:12",
+        "to_station": "GJM",
+        "arrival": "14:13"
+    },
+    {
+        "id": 356,
+        "train_name": "Volkswagen",
+        "from_station": "YGQ",
+        "departure": "16:41",
+        "to_station": "KLW",
+        "arrival": "18:36"
+    },
+    {
+        "id": 357,
+        "train_name": "Mazda",
+        "from_station": "PXH",
+        "departure": "6:01",
+        "to_station": "TMP",
+        "arrival": "5:26"
+    },
+    {
+        "id": 358,
+        "train_name": "Ford",
+        "from_station": "CEN",
+        "departure": "18:04",
+        "to_station": "PAZ",
+        "arrival": "11:54"
+    },
+    {
+        "id": 359,
+        "train_name": "Oldsmobile",
+        "from_station": "DNQ",
+        "departure": "6:21",
+        "to_station": "AZO",
+        "arrival": "2:02"
+    },
+    {
+        "id": 360,
+        "train_name": "Chevrolet",
+        "from_station": "MXU",
+        "departure": "20:08",
+        "to_station": "CKC",
+        "arrival": "0:12"
+    },
+    {
+        "id": 361,
+        "train_name": "Ford",
+        "from_station": "CEB",
+        "departure": "18:25",
+        "to_station": "ORX",
+        "arrival": "11:07"
+    },
+    {
+        "id": 362,
+        "train_name": "Dodge",
+        "from_station": "WDH",
+        "departure": "8:46",
+        "to_station": "GAX",
+        "arrival": "23:41"
+    },
+    {
+        "id": 363,
+        "train_name": "Ford",
+        "from_station": "PPK",
+        "departure": "4:32",
+        "to_station": "LSJ",
+        "arrival": "10:50"
+    },
+    {
+        "id": 364,
+        "train_name": "Chevrolet",
+        "from_station": "MHE",
+        "departure": "4:54",
+        "to_station": "NEU",
+        "arrival": "2:52"
+    },
+    {
+        "id": 365,
+        "train_name": "Saturn",
+        "from_station": "KPN",
+        "departure": "21:21",
+        "to_station": "HUN",
+        "arrival": "18:01"
+    },
+    {
+        "id": 366,
+        "train_name": "GMC",
+        "from_station": "HNE",
+        "departure": "10:41",
+        "to_station": "VAU",
+        "arrival": "5:58"
+    },
+    {
+        "id": 367,
+        "train_name": "BMW",
+        "from_station": "NCJ",
+        "departure": "13:24",
+        "to_station": "EKI",
+        "arrival": "17:52"
+    },
+    {
+        "id": 368,
+        "train_name": "Porsche",
+        "from_station": "YVZ",
+        "departure": "0:57",
+        "to_station": "MCN",
+        "arrival": "8:29"
+    },
+    {
+        "id": 369,
+        "train_name": "Lincoln",
+        "from_station": "GEF",
+        "departure": "16:17",
+        "to_station": "GED",
+        "arrival": "17:01"
+    },
+    {
+        "id": 370,
+        "train_name": "Chevrolet",
+        "from_station": "YOT",
+        "departure": "9:32",
+        "to_station": "HGS",
+        "arrival": "1:43"
+    },
+    {
+        "id": 371,
+        "train_name": "Hyundai",
+        "from_station": "AXA",
+        "departure": "6:56",
+        "to_station": "KBT",
+        "arrival": "4:28"
+    },
+    {
+        "id": 372,
+        "train_name": "Pontiac",
+        "from_station": "LRM",
+        "departure": "11:10",
+        "to_station": "SZN",
+        "arrival": "4:54"
+    },
+    {
+        "id": 373,
+        "train_name": "Nissan",
+        "from_station": "MGB",
+        "departure": "16:28",
+        "to_station": "SLV",
+        "arrival": "21:41"
+    },
+    {
+        "id": 374,
+        "train_name": "Audi",
+        "from_station": "YXU",
+        "departure": "21:02",
+        "to_station": "AZP",
+        "arrival": "23:48"
+    },
+    {
+        "id": 375,
+        "train_name": "Mazda",
+        "from_station": "GJA",
+        "departure": "10:07",
+        "to_station": "FAC",
+        "arrival": "4:28"
+    },
+    {
+        "id": 376,
+        "train_name": "Buick",
+        "from_station": "NLS",
+        "departure": "12:25",
+        "to_station": "LIH",
+        "arrival": "12:18"
+    },
+    {
+        "id": 377,
+        "train_name": "Chevrolet",
+        "from_station": "BGW",
+        "departure": "3:01",
+        "to_station": "TEE",
+        "arrival": "20:50"
+    },
+    {
+        "id": 378,
+        "train_name": "GMC",
+        "from_station": "KJU",
+        "departure": "3:13",
+        "to_station": "LSZ",
+        "arrival": "2:34"
+    },
+    {
+        "id": 379,
+        "train_name": "Plymouth",
+        "from_station": "OTY",
+        "departure": "4:43",
+        "to_station": "KSO",
+        "arrival": "0:45"
+    },
+    {
+        "id": 380,
+        "train_name": "Cadillac",
+        "from_station": "WAM",
+        "departure": "13:47",
+        "to_station": "KKZ",
+        "arrival": "21:22"
+    },
+    {
+        "id": 381,
+        "train_name": "Ford",
+        "from_station": "CUZ",
+        "departure": "20:59",
+        "to_station": "YAD",
+        "arrival": "22:31"
+    },
+    {
+        "id": 382,
+        "train_name": "Subaru",
+        "from_station": "WSZ",
+        "departure": "12:09",
+        "to_station": "NTX",
+        "arrival": "5:38"
+    },
+    {
+        "id": 383,
+        "train_name": "Volkswagen",
+        "from_station": "WLH",
+        "departure": "17:41",
+        "to_station": "IXL",
+        "arrival": "1:56"
+    },
+    {
+        "id": 384,
+        "train_name": "Plymouth",
+        "from_station": "LKL",
+        "departure": "13:03",
+        "to_station": "AYO",
+        "arrival": "21:43"
+    },
+    {
+        "id": 385,
+        "train_name": "Nissan",
+        "from_station": "KHI",
+        "departure": "6:28",
+        "to_station": "TVF",
+        "arrival": "0:12"
+    },
+    {
+        "id": 386,
+        "train_name": "Plymouth",
+        "from_station": "JCH",
+        "departure": "19:58",
+        "to_station": "WAX",
+        "arrival": "20:27"
+    },
+    {
+        "id": 387,
+        "train_name": "Audi",
+        "from_station": "BRQ",
+        "departure": "2:59",
+        "to_station": "0",
+        "arrival": "23:29"
+    },
+    {
+        "id": 388,
+        "train_name": "Ford",
+        "from_station": "URC",
+        "departure": "0:38",
+        "to_station": "HLU",
+        "arrival": "20:28"
+    },
+    {
+        "id": 389,
+        "train_name": "Toyota",
+        "from_station": "YZD",
+        "departure": "2:28",
+        "to_station": "GDQ",
+        "arrival": "20:41"
+    },
+    {
+        "id": 390,
+        "train_name": "Isuzu",
+        "from_station": "KAT",
+        "departure": "3:24",
+        "to_station": "UEE",
+        "arrival": "7:29"
+    },
+    {
+        "id": 391,
+        "train_name": "Suzuki",
+        "from_station": "RAO",
+        "departure": "10:09",
+        "to_station": "TGN",
+        "arrival": "12:15"
+    },
+    {
+        "id": 392,
+        "train_name": "Geo",
+        "from_station": "XAR",
+        "departure": "12:21",
+        "to_station": "THC",
+        "arrival": "12:57"
+    },
+    {
+        "id": 393,
+        "train_name": "Dodge",
+        "from_station": "VPY",
+        "departure": "0:43",
+        "to_station": "OOT",
+        "arrival": "18:50"
+    },
+    {
+        "id": 394,
+        "train_name": "Lexus",
+        "from_station": "ZAC",
+        "departure": "21:30",
+        "to_station": "NBN",
+        "arrival": "11:11"
+    },
+    {
+        "id": 395,
+        "train_name": "Toyota",
+        "from_station": "KKW",
+        "departure": "17:02",
+        "to_station": "GAL",
+        "arrival": "8:41"
+    },
+    {
+        "id": 396,
+        "train_name": "Lincoln",
+        "from_station": "MTB",
+        "departure": "19:00",
+        "to_station": "DIG",
+        "arrival": "19:24"
+    },
+    {
+        "id": 397,
+        "train_name": "Pontiac",
+        "from_station": "OPA",
+        "departure": "1:04",
+        "to_station": "BRO",
+        "arrival": "11:46"
+    },
+    {
+        "id": 398,
+        "train_name": "Chevrolet",
+        "from_station": "SGM",
+        "departure": "11:19",
+        "to_station": "YNH",
+        "arrival": "10:48"
+    },
+    {
+        "id": 399,
+        "train_name": "Nissan",
+        "from_station": "TIG",
+        "departure": "7:12",
+        "to_station": "SYW",
+        "arrival": "13:46"
+    },
+    {
+        "id": 400,
+        "train_name": "Aptera",
+        "from_station": "BCQ",
+        "departure": "14:40",
+        "to_station": "YTR",
+        "arrival": "13:23"
+    },
+    {
+        "id": 401,
+        "train_name": "Volvo",
+        "from_station": "ZTM",
+        "departure": "14:01",
+        "to_station": "VME",
+        "arrival": "20:53"
+    },
+    {
+        "id": 402,
+        "train_name": "Kia",
+        "from_station": "RSN",
+        "departure": "18:17",
+        "to_station": "BDK",
+        "arrival": "13:38"
+    },
+    {
+        "id": 403,
+        "train_name": "Saturn",
+        "from_station": "ACI",
+        "departure": "11:04",
+        "to_station": "NOG",
+        "arrival": "10:29"
+    },
+    {
+        "id": 404,
+        "train_name": "Toyota",
+        "from_station": "HDR",
+        "departure": "19:30",
+        "to_station": "CMJ",
+        "arrival": "21:41"
+    },
+    {
+        "id": 405,
+        "train_name": "Ford",
+        "from_station": "WPK",
+        "departure": "18:05",
+        "to_station": "YBC",
+        "arrival": "4:03"
+    },
+    {
+        "id": 406,
+        "train_name": "Honda",
+        "from_station": "TVF",
+        "departure": "18:28",
+        "to_station": "MAY",
+        "arrival": "22:45"
+    },
+    {
+        "id": 407,
+        "train_name": "Oldsmobile",
+        "from_station": "0",
+        "departure": "7:43",
+        "to_station": "MEE",
+        "arrival": "21:47"
+    },
+    {
+        "id": 408,
+        "train_name": "Ford",
+        "from_station": "THE",
+        "departure": "20:46",
+        "to_station": "YUM",
+        "arrival": "12:34"
+    },
+    {
+        "id": 409,
+        "train_name": "Chevrolet",
+        "from_station": "SPN",
+        "departure": "20:31",
+        "to_station": "KWH",
+        "arrival": "19:13"
+    },
+    {
+        "id": 410,
+        "train_name": "Chevrolet",
+        "from_station": "CVC",
+        "departure": "8:52",
+        "to_station": "YOY",
+        "arrival": "20:49"
+    },
+    {
+        "id": 411,
+        "train_name": "Lotus",
+        "from_station": "SAB",
+        "departure": "20:09",
+        "to_station": "NGK",
+        "arrival": "2:42"
+    },
+    {
+        "id": 412,
+        "train_name": "Acura",
+        "from_station": "LYA",
+        "departure": "13:20",
+        "to_station": "IMI",
+        "arrival": "9:04"
+    },
+    {
+        "id": 413,
+        "train_name": "Chevrolet",
+        "from_station": "PAY",
+        "departure": "0:57",
+        "to_station": "REI",
+        "arrival": "15:49"
+    },
+    {
+        "id": 414,
+        "train_name": "BMW",
+        "from_station": "KKO",
+        "departure": "3:09",
+        "to_station": "KUC",
+        "arrival": "13:18"
+    },
+    {
+        "id": 415,
+        "train_name": "Dodge",
+        "from_station": "ACY",
+        "departure": "21:17",
+        "to_station": "PBF",
+        "arrival": "9:35"
+    },
+    {
+        "id": 416,
+        "train_name": "BMW",
+        "from_station": "BBU",
+        "departure": "16:54",
+        "to_station": "0",
+        "arrival": "11:43"
+    },
+    {
+        "id": 417,
+        "train_name": "Chevrolet",
+        "from_station": "SFL",
+        "departure": "5:57",
+        "to_station": "BTZ",
+        "arrival": "15:10"
+    },
+    {
+        "id": 418,
+        "train_name": "Land Rover",
+        "from_station": "NYW",
+        "departure": "17:15",
+        "to_station": "BMQ",
+        "arrival": "9:18"
+    },
+    {
+        "id": 419,
+        "train_name": "Ford",
+        "from_station": "OES",
+        "departure": "23:40",
+        "to_station": "RJK",
+        "arrival": "2:19"
+    },
+    {
+        "id": 420,
+        "train_name": "Chevrolet",
+        "from_station": "YKL",
+        "departure": "13:20",
+        "to_station": "LYO",
+        "arrival": "15:46"
+    },
+    {
+        "id": 421,
+        "train_name": "Buick",
+        "from_station": "GYU",
+        "departure": "3:10",
+        "to_station": "MHC",
+        "arrival": "20:50"
+    },
+    {
+        "id": 422,
+        "train_name": "Ford",
+        "from_station": "FRN",
+        "departure": "23:28",
+        "to_station": "SGV",
+        "arrival": "18:01"
+    },
+    {
+        "id": 423,
+        "train_name": "Chevrolet",
+        "from_station": "ZYL",
+        "departure": "12:36",
+        "to_station": "LTI",
+        "arrival": "18:36"
+    },
+    {
+        "id": 424,
+        "train_name": "Hyundai",
+        "from_station": "MDE",
+        "departure": "7:34",
+        "to_station": "TOS",
+        "arrival": "17:13"
+    },
+    {
+        "id": 425,
+        "train_name": "Lamborghini",
+        "from_station": "BQQ",
+        "departure": "21:22",
+        "to_station": "ALL",
+        "arrival": "0:49"
+    },
+    {
+        "id": 426,
+        "train_name": "Lexus",
+        "from_station": "KUK",
+        "departure": "15:47",
+        "to_station": "SCY",
+        "arrival": "15:39"
+    },
+    {
+        "id": 427,
+        "train_name": "Ford",
+        "from_station": "BHQ",
+        "departure": "20:28",
+        "to_station": "CQA",
+        "arrival": "15:12"
+    },
+    {
+        "id": 428,
+        "train_name": "BMW",
+        "from_station": "UII",
+        "departure": "6:18",
+        "to_station": "YHT",
+        "arrival": "14:00"
+    },
+    {
+        "id": 429,
+        "train_name": "GMC",
+        "from_station": "MVR",
+        "departure": "3:36",
+        "to_station": "JIO",
+        "arrival": "10:26"
+    },
+    {
+        "id": 430,
+        "train_name": "GMC",
+        "from_station": "PPC",
+        "departure": "13:45",
+        "to_station": "ROZ",
+        "arrival": "19:10"
+    },
+    {
+        "id": 431,
+        "train_name": "Dodge",
+        "from_station": "PUL",
+        "departure": "17:09",
+        "to_station": "BJD",
+        "arrival": "3:37"
+    },
+    {
+        "id": 432,
+        "train_name": "GMC",
+        "from_station": "FFU",
+        "departure": "0:04",
+        "to_station": "KKX",
+        "arrival": "10:48"
+    },
+    {
+        "id": 433,
+        "train_name": "Cadillac",
+        "from_station": "CAZ",
+        "departure": "11:06",
+        "to_station": "OHO",
+        "arrival": "3:22"
+    },
+    {
+        "id": 434,
+        "train_name": "Chevrolet",
+        "from_station": "ZFM",
+        "departure": "18:57",
+        "to_station": "RAV",
+        "arrival": "0:14"
+    },
+    {
+        "id": 435,
+        "train_name": "Buick",
+        "from_station": "GDN",
+        "departure": "8:28",
+        "to_station": "0",
+        "arrival": "6:33"
+    },
+    {
+        "id": 436,
+        "train_name": "Pontiac",
+        "from_station": "BOJ",
+        "departure": "3:58",
+        "to_station": "CIQ",
+        "arrival": "18:14"
+    },
+    {
+        "id": 437,
+        "train_name": "Mazda",
+        "from_station": "BHK",
+        "departure": "2:30",
+        "to_station": "AOK",
+        "arrival": "18:53"
+    },
+    {
+        "id": 438,
+        "train_name": "Dodge",
+        "from_station": "LTW",
+        "departure": "21:42",
+        "to_station": "MRP",
+        "arrival": "13:28"
+    },
+    {
+        "id": 439,
+        "train_name": "Mazda",
+        "from_station": "MMY",
+        "departure": "8:32",
+        "to_station": "PGA",
+        "arrival": "20:10"
+    },
+    {
+        "id": 440,
+        "train_name": "Lexus",
+        "from_station": "RDG",
+        "departure": "17:33",
+        "to_station": "JAN",
+        "arrival": "19:01"
+    },
+    {
+        "id": 441,
+        "train_name": "Buick",
+        "from_station": "SJH",
+        "departure": "17:21",
+        "to_station": "OAJ",
+        "arrival": "3:04"
+    },
+    {
+        "id": 442,
+        "train_name": "Chevrolet",
+        "from_station": "BNM",
+        "departure": "2:22",
+        "to_station": "KIQ",
+        "arrival": "11:36"
+    },
+    {
+        "id": 443,
+        "train_name": "Mitsubishi",
+        "from_station": "PKZ",
+        "departure": "11:24",
+        "to_station": "YZY",
+        "arrival": "5:33"
+    },
+    {
+        "id": 444,
+        "train_name": "Chevrolet",
+        "from_station": "SFA",
+        "departure": "11:18",
+        "to_station": "ZZO",
+        "arrival": "10:03"
+    },
+    {
+        "id": 445,
+        "train_name": "GMC",
+        "from_station": "PNI",
+        "departure": "20:06",
+        "to_station": "KWB",
+        "arrival": "20:13"
+    },
+    {
+        "id": 446,
+        "train_name": "Toyota",
+        "from_station": "SIZ",
+        "departure": "4:46",
+        "to_station": "MTS",
+        "arrival": "14:13"
+    },
+    {
+        "id": 447,
+        "train_name": "Audi",
+        "from_station": "ESE",
+        "departure": "15:44",
+        "to_station": "BUT",
+        "arrival": "7:53"
+    },
+    {
+        "id": 448,
+        "train_name": "Mazda",
+        "from_station": "BBZ",
+        "departure": "8:03",
+        "to_station": "YFH",
+        "arrival": "8:47"
+    },
+    {
+        "id": 449,
+        "train_name": "Mercury",
+        "from_station": "KUH",
+        "departure": "0:20",
+        "to_station": "SCY",
+        "arrival": "11:35"
+    },
+    {
+        "id": 450,
+        "train_name": "Toyota",
+        "from_station": "KYI",
+        "departure": "4:01",
+        "to_station": "SXU",
+        "arrival": "14:24"
+    },
+    {
+        "id": 451,
+        "train_name": "Nissan",
+        "from_station": "GOH",
+        "departure": "22:28",
+        "to_station": "YGG",
+        "arrival": "12:19"
+    },
+    {
+        "id": 452,
+        "train_name": "Toyota",
+        "from_station": "KGD",
+        "departure": "7:05",
+        "to_station": "IXC",
+        "arrival": "21:04"
+    },
+    {
+        "id": 453,
+        "train_name": "Chevrolet",
+        "from_station": "SEZ",
+        "departure": "21:49",
+        "to_station": "LOH",
+        "arrival": "3:24"
+    },
+    {
+        "id": 454,
+        "train_name": "Lamborghini",
+        "from_station": "KEL",
+        "departure": "17:01",
+        "to_station": "HGI",
+        "arrival": "14:56"
+    },
+    {
+        "id": 455,
+        "train_name": "Acura",
+        "from_station": "BEZ",
+        "departure": "4:18",
+        "to_station": "KYE",
+        "arrival": "23:07"
+    },
+    {
+        "id": 456,
+        "train_name": "Toyota",
+        "from_station": "KHA",
+        "departure": "0:08",
+        "to_station": "ESF",
+        "arrival": "2:59"
+    },
+    {
+        "id": 457,
+        "train_name": "Mercury",
+        "from_station": "TCH",
+        "departure": "16:55",
+        "to_station": "0",
+        "arrival": "13:20"
+    },
+    {
+        "id": 458,
+        "train_name": "Morgan",
+        "from_station": "BCU",
+        "departure": "21:13",
+        "to_station": "DIK",
+        "arrival": "22:44"
+    },
+    {
+        "id": 459,
+        "train_name": "Bentley",
+        "from_station": "MAV",
+        "departure": "5:35",
+        "to_station": "TAR",
+        "arrival": "20:08"
+    },
+    {
+        "id": 460,
+        "train_name": "Porsche",
+        "from_station": "IGR",
+        "departure": "12:25",
+        "to_station": "LNK",
+        "arrival": "9:17"
+    },
+    {
+        "id": 461,
+        "train_name": "Toyota",
+        "from_station": "SPY",
+        "departure": "21:27",
+        "to_station": "GLD",
+        "arrival": "23:22"
+    },
+    {
+        "id": 462,
+        "train_name": "Mazda",
+        "from_station": "DWC",
+        "departure": "11:32",
+        "to_station": "WOE",
+        "arrival": "13:56"
+    },
+    {
+        "id": 463,
+        "train_name": "GMC",
+        "from_station": "ZEN",
+        "departure": "7:20",
+        "to_station": "BAE",
+        "arrival": "12:03"
+    },
+    {
+        "id": 464,
+        "train_name": "Mercedes-Benz",
+        "from_station": "0",
+        "departure": "9:35",
+        "to_station": "YXS",
+        "arrival": "13:02"
+    },
+    {
+        "id": 465,
+        "train_name": "Land Rover",
+        "from_station": "ICI",
+        "departure": "11:42",
+        "to_station": "BHM",
+        "arrival": "6:32"
+    },
+    {
+        "id": 466,
+        "train_name": "Toyota",
+        "from_station": "0",
+        "departure": "16:57",
+        "to_station": "KMV",
+        "arrival": "19:16"
+    },
+    {
+        "id": 467,
+        "train_name": "Ford",
+        "from_station": "DGW",
+        "departure": "3:09",
+        "to_station": "DMM",
+        "arrival": "6:42"
+    },
+    {
+        "id": 468,
+        "train_name": "Chevrolet",
+        "from_station": "SGD",
+        "departure": "11:08",
+        "to_station": "HOO",
+        "arrival": "20:18"
+    },
+    {
+        "id": 469,
+        "train_name": "BMW",
+        "from_station": "LWS",
+        "departure": "16:35",
+        "to_station": "ASV",
+        "arrival": "1:08"
+    },
+    {
+        "id": 470,
+        "train_name": "Volvo",
+        "from_station": "LNG",
+        "departure": "7:15",
+        "to_station": "O62",
+        "arrival": "5:35"
+    },
+    {
+        "id": 471,
+        "train_name": "Dodge",
+        "from_station": "KBL",
+        "departure": "14:30",
+        "to_station": "NGB",
+        "arrival": "12:09"
+    },
+    {
+        "id": 472,
+        "train_name": "Acura",
+        "from_station": "HFS",
+        "departure": "6:28",
+        "to_station": "SEF",
+        "arrival": "10:10"
+    },
+    {
+        "id": 473,
+        "train_name": "Nissan",
+        "from_station": "YAJ",
+        "departure": "19:53",
+        "to_station": "IXL",
+        "arrival": "13:44"
+    },
+    {
+        "id": 474,
+        "train_name": "Nissan",
+        "from_station": "QCH",
+        "departure": "16:22",
+        "to_station": "ALG",
+        "arrival": "1:46"
+    },
+    {
+        "id": 475,
+        "train_name": "GMC",
+        "from_station": "VVZ",
+        "departure": "6:22",
+        "to_station": "AVK",
+        "arrival": "21:32"
+    },
+    {
+        "id": 476,
+        "train_name": "Chevrolet",
+        "from_station": "SRB",
+        "departure": "3:58",
+        "to_station": "NAD",
+        "arrival": "18:22"
+    },
+    {
+        "id": 477,
+        "train_name": "Ford",
+        "from_station": "DDU",
+        "departure": "10:43",
+        "to_station": "CVU",
+        "arrival": "1:13"
+    },
+    {
+        "id": 478,
+        "train_name": "Volvo",
+        "from_station": "TMW",
+        "departure": "7:19",
+        "to_station": "ONS",
+        "arrival": "13:27"
+    },
+    {
+        "id": 479,
+        "train_name": "Mitsubishi",
+        "from_station": "NEG",
+        "departure": "20:37",
+        "to_station": "GBM",
+        "arrival": "20:10"
+    },
+    {
+        "id": 480,
+        "train_name": "BMW",
+        "from_station": "QEO",
+        "departure": "15:13",
+        "to_station": "KUN",
+        "arrival": "16:15"
+    },
+    {
+        "id": 481,
+        "train_name": "Audi",
+        "from_station": "EWO",
+        "departure": "13:56",
+        "to_station": "TNW",
+        "arrival": "16:54"
+    },
+    {
+        "id": 482,
+        "train_name": "BMW",
+        "from_station": "USQ",
+        "departure": "10:10",
+        "to_station": "MOC",
+        "arrival": "16:23"
+    },
+    {
+        "id": 483,
+        "train_name": "Infiniti",
+        "from_station": "OMO",
+        "departure": "6:07",
+        "to_station": "HRR",
+        "arrival": "18:34"
+    },
+    {
+        "id": 484,
+        "train_name": "Mercury",
+        "from_station": "LVK",
+        "departure": "1:55",
+        "to_station": "YGT",
+        "arrival": "3:35"
+    },
+    {
+        "id": 485,
+        "train_name": "Chevrolet",
+        "from_station": "ZPB",
+        "departure": "17:50",
+        "to_station": "AHL",
+        "arrival": "13:10"
+    },
+    {
+        "id": 486,
+        "train_name": "Austin",
+        "from_station": "TMN",
+        "departure": "18:42",
+        "to_station": "TJC",
+        "arrival": "2:54"
+    },
+    {
+        "id": 487,
+        "train_name": "Ford",
+        "from_station": "HOF",
+        "departure": "18:49",
+        "to_station": "PBU",
+        "arrival": "17:09"
+    },
+    {
+        "id": 488,
+        "train_name": "Lotus",
+        "from_station": "SRQ",
+        "departure": "1:59",
+        "to_station": "FFT",
+        "arrival": "21:38"
+    },
+    {
+        "id": 489,
+        "train_name": "Buick",
+        "from_station": "OTD",
+        "departure": "4:37",
+        "to_station": "EDO",
+        "arrival": "5:57"
+    },
+    {
+        "id": 490,
+        "train_name": "Toyota",
+        "from_station": "WWI",
+        "departure": "0:19",
+        "to_station": "OUL",
+        "arrival": "14:22"
+    },
+    {
+        "id": 491,
+        "train_name": "Volvo",
+        "from_station": "DSE",
+        "departure": "23:35",
+        "to_station": "GDJ",
+        "arrival": "23:58"
+    },
+    {
+        "id": 492,
+        "train_name": "Ford",
+        "from_station": "GUD",
+        "departure": "9:44",
+        "to_station": "YGH",
+        "arrival": "15:06"
+    },
+    {
+        "id": 493,
+        "train_name": "Honda",
+        "from_station": "SHM",
+        "departure": "6:43",
+        "to_station": "BBR",
+        "arrival": "22:21"
+    },
+    {
+        "id": 494,
+        "train_name": "Dodge",
+        "from_station": "FVL",
+        "departure": "10:12",
+        "to_station": "SDC",
+        "arrival": "16:28"
+    },
+    {
+        "id": 495,
+        "train_name": "Hyundai",
+        "from_station": "NUW",
+        "departure": "17:03",
+        "to_station": "TUY",
+        "arrival": "7:24"
+    },
+    {
+        "id": 496,
+        "train_name": "Ford",
+        "from_station": "TID",
+        "departure": "10:13",
+        "to_station": "CDE",
+        "arrival": "18:07"
+    },
+    {
+        "id": 497,
+        "train_name": "Rolls-Royce",
+        "from_station": "YYC",
+        "departure": "0:31",
+        "to_station": "RAW",
+        "arrival": "6:39"
+    },
+    {
+        "id": 498,
+        "train_name": "Lexus",
+        "from_station": "KRR",
+        "departure": "22:24",
+        "to_station": "YFA",
+        "arrival": "5:46"
+    },
+    {
+        "id": 499,
+        "train_name": "Saturn",
+        "from_station": "ZNA",
+        "departure": "14:41",
+        "to_station": "GRO",
+        "arrival": "21:06"
+    },
+    {
+        "id": 500,
+        "train_name": "Audi",
+        "from_station": "AYD",
+        "departure": "0:26",
+        "to_station": "MTS",
+        "arrival": "7:35"
+    },
+    {
+        "id": 501,
+        "train_name": "Saab",
+        "from_station": "BEI",
+        "departure": "16:06",
+        "to_station": "KBD",
+        "arrival": "4:11"
+    },
+    {
+        "id": 502,
+        "train_name": "GMC",
+        "from_station": "KDW",
+        "departure": "13:49",
+        "to_station": "JEG",
+        "arrival": "17:03"
+    },
+    {
+        "id": 503,
+        "train_name": "Chrysler",
+        "from_station": "EDK",
+        "departure": "14:16",
+        "to_station": "YSM",
+        "arrival": "13:48"
+    },
+    {
+        "id": 504,
+        "train_name": "Dodge",
+        "from_station": "MQH",
+        "departure": "0:19",
+        "to_station": "CHP",
+        "arrival": "6:07"
+    },
+    {
+        "id": 505,
+        "train_name": "Honda",
+        "from_station": "OCH",
+        "departure": "0:31",
+        "to_station": "WBC",
+        "arrival": "13:57"
+    },
+    {
+        "id": 506,
+        "train_name": "Dodge",
+        "from_station": "AEP",
+        "departure": "0:29",
+        "to_station": "PHH",
+        "arrival": "20:36"
+    },
+    {
+        "id": 507,
+        "train_name": "Fillmore",
+        "from_station": "YLH",
+        "departure": "5:42",
+        "to_station": "MDB",
+        "arrival": "9:08"
+    },
+    {
+        "id": 508,
+        "train_name": "Hyundai",
+        "from_station": "GRV",
+        "departure": "16:39",
+        "to_station": "KDC",
+        "arrival": "7:06"
+    },
+    {
+        "id": 509,
+        "train_name": "Jaguar",
+        "from_station": "CMW",
+        "departure": "18:46",
+        "to_station": "MAT",
+        "arrival": "11:36"
+    },
+    {
+        "id": 510,
+        "train_name": "Chevrolet",
+        "from_station": "NPA",
+        "departure": "0:04",
+        "to_station": "NRS",
+        "arrival": "15:37"
+    },
+    {
+        "id": 511,
+        "train_name": "Chevrolet",
+        "from_station": "CPP",
+        "departure": "3:32",
+        "to_station": "GCY",
+        "arrival": "22:12"
+    },
+    {
+        "id": 512,
+        "train_name": "Toyota",
+        "from_station": "BBG",
+        "departure": "21:02",
+        "to_station": "AUC",
+        "arrival": "15:12"
+    },
+    {
+        "id": 513,
+        "train_name": "Chrysler",
+        "from_station": "SKB",
+        "departure": "23:39",
+        "to_station": "BCK",
+        "arrival": "5:48"
+    },
+    {
+        "id": 514,
+        "train_name": "Jaguar",
+        "from_station": "RSA",
+        "departure": "18:12",
+        "to_station": "YTE",
+        "arrival": "21:41"
+    },
+    {
+        "id": 515,
+        "train_name": "GMC",
+        "from_station": "TMR",
+        "departure": "7:41",
+        "to_station": "SUP",
+        "arrival": "1:35"
+    },
+    {
+        "id": 516,
+        "train_name": "Porsche",
+        "from_station": "YNS",
+        "departure": "1:40",
+        "to_station": "LAB",
+        "arrival": "13:49"
+    },
+    {
+        "id": 517,
+        "train_name": "Suzuki",
+        "from_station": "LLJ",
+        "departure": "17:54",
+        "to_station": "DNA",
+        "arrival": "8:16"
+    },
+    {
+        "id": 518,
+        "train_name": "Jeep",
+        "from_station": "EAM",
+        "departure": "19:34",
+        "to_station": "EDE",
+        "arrival": "10:34"
+    },
+    {
+        "id": 519,
+        "train_name": "Dodge",
+        "from_station": "UOL",
+        "departure": "14:26",
+        "to_station": "CPL",
+        "arrival": "12:08"
+    },
+    {
+        "id": 520,
+        "train_name": "Lexus",
+        "from_station": "DLM",
+        "departure": "22:15",
+        "to_station": "BEL",
+        "arrival": "23:04"
+    },
+    {
+        "id": 521,
+        "train_name": "Mazda",
+        "from_station": "YAQ",
+        "departure": "7:15",
+        "to_station": "LHG",
+        "arrival": "18:32"
+    },
+    {
+        "id": 522,
+        "train_name": "Nissan",
+        "from_station": "FLZ",
+        "departure": "18:57",
+        "to_station": "EGM",
+        "arrival": "17:20"
+    },
+    {
+        "id": 523,
+        "train_name": "Dodge",
+        "from_station": "KDS",
+        "departure": "15:57",
+        "to_station": "PBJ",
+        "arrival": "22:08"
+    },
+    {
+        "id": 524,
+        "train_name": "Lexus",
+        "from_station": "EKA",
+        "departure": "7:43",
+        "to_station": "SLB",
+        "arrival": "18:29"
+    },
+    {
+        "id": 525,
+        "train_name": "Pontiac",
+        "from_station": "CYU",
+        "departure": "22:26",
+        "to_station": "ESC",
+        "arrival": "9:48"
+    },
+    {
+        "id": 526,
+        "train_name": "Subaru",
+        "from_station": "HYS",
+        "departure": "16:33",
+        "to_station": "ARB",
+        "arrival": "0:06"
+    },
+    {
+        "id": 527,
+        "train_name": "Ford",
+        "from_station": "UND",
+        "departure": "18:37",
+        "to_station": "LET",
+        "arrival": "12:00"
+    },
+    {
+        "id": 528,
+        "train_name": "Lincoln",
+        "from_station": "KES",
+        "departure": "22:07",
+        "to_station": "UPN",
+        "arrival": "4:57"
+    },
+    {
+        "id": 529,
+        "train_name": "Honda",
+        "from_station": "AMO",
+        "departure": "17:30",
+        "to_station": "THX",
+        "arrival": "4:26"
+    },
+    {
+        "id": 530,
+        "train_name": "Audi",
+        "from_station": "TBH",
+        "departure": "16:24",
+        "to_station": "YCF",
+        "arrival": "20:13"
+    },
+    {
+        "id": 531,
+        "train_name": "Maserati",
+        "from_station": "RDC",
+        "departure": "8:08",
+        "to_station": "PGP",
+        "arrival": "18:09"
+    },
+    {
+        "id": 532,
+        "train_name": "Hummer",
+        "from_station": "TLO",
+        "departure": "14:58",
+        "to_station": "CIC",
+        "arrival": "18:00"
+    },
+    {
+        "id": 533,
+        "train_name": "Chevrolet",
+        "from_station": "VKG",
+        "departure": "12:11",
+        "to_station": "HMG",
+        "arrival": "8:23"
+    },
+    {
+        "id": 534,
+        "train_name": "Hyundai",
+        "from_station": "IDF",
+        "departure": "20:26",
+        "to_station": "ACA",
+        "arrival": "1:11"
+    },
+    {
+        "id": 535,
+        "train_name": "Cadillac",
+        "from_station": "LOW",
+        "departure": "20:33",
+        "to_station": "TYG",
+        "arrival": "17:17"
+    },
+    {
+        "id": 536,
+        "train_name": "Toyota",
+        "from_station": "ZPO",
+        "departure": "6:00",
+        "to_station": "UGO",
+        "arrival": "14:39"
+    },
+    {
+        "id": 537,
+        "train_name": "Chevrolet",
+        "from_station": "VII",
+        "departure": "2:39",
+        "to_station": "LGQ",
+        "arrival": "7:35"
+    },
+    {
+        "id": 538,
+        "train_name": "Kia",
+        "from_station": "BYS",
+        "departure": "16:48",
+        "to_station": "MNF",
+        "arrival": "0:08"
+    },
+    {
+        "id": 539,
+        "train_name": "Chrysler",
+        "from_station": "PEC",
+        "departure": "14:43",
+        "to_station": "BCO",
+        "arrival": "2:02"
+    },
+    {
+        "id": 540,
+        "train_name": "Lotus",
+        "from_station": "NKW",
+        "departure": "1:12",
+        "to_station": "NUQ",
+        "arrival": "20:10"
+    },
+    {
+        "id": 541,
+        "train_name": "Toyota",
+        "from_station": "RJI",
+        "departure": "10:34",
+        "to_station": "DHA",
+        "arrival": "7:19"
+    },
+    {
+        "id": 542,
+        "train_name": "Pontiac",
+        "from_station": "HLC",
+        "departure": "12:06",
+        "to_station": "ZSS",
+        "arrival": "0:32"
+    },
+    {
+        "id": 543,
+        "train_name": "Volvo",
+        "from_station": "KAE",
+        "departure": "5:39",
+        "to_station": "BMJ",
+        "arrival": "16:34"
+    },
+    {
+        "id": 544,
+        "train_name": "Daewoo",
+        "from_station": "FCH",
+        "departure": "22:32",
+        "to_station": "RLP",
+        "arrival": "23:54"
+    },
+    {
+        "id": 545,
+        "train_name": "Mitsubishi",
+        "from_station": "DDC",
+        "departure": "7:15",
+        "to_station": "KZI",
+        "arrival": "11:28"
+    },
+    {
+        "id": 546,
+        "train_name": "Land Rover",
+        "from_station": "AAJ",
+        "departure": "17:49",
+        "to_station": "PGP",
+        "arrival": "18:33"
+    },
+    {
+        "id": 547,
+        "train_name": "Toyota",
+        "from_station": "0",
+        "departure": "13:15",
+        "to_station": "0",
+        "arrival": "10:30"
+    },
+    {
+        "id": 548,
+        "train_name": "Hyundai",
+        "from_station": "THL",
+        "departure": "6:13",
+        "to_station": "BDY",
+        "arrival": "13:12"
+    },
+    {
+        "id": 549,
+        "train_name": "Pontiac",
+        "from_station": "YAI",
+        "departure": "9:03",
+        "to_station": "LDM",
+        "arrival": "8:21"
+    },
+    {
+        "id": 550,
+        "train_name": "Dodge",
+        "from_station": "ZIC",
+        "departure": "23:45",
+        "to_station": "HZL",
+        "arrival": "23:53"
+    },
+    {
+        "id": 551,
+        "train_name": "Dodge",
+        "from_station": "MAZ",
+        "departure": "5:44",
+        "to_station": "MTI",
+        "arrival": "22:11"
+    },
+    {
+        "id": 552,
+        "train_name": "GMC",
+        "from_station": "AYH",
+        "departure": "21:48",
+        "to_station": "SJH",
+        "arrival": "12:04"
+    },
+    {
+        "id": 553,
+        "train_name": "Mercury",
+        "from_station": "UPV",
+        "departure": "21:46",
+        "to_station": "HYC",
+        "arrival": "15:57"
+    },
+    {
+        "id": 554,
+        "train_name": "Suzuki",
+        "from_station": "SBC",
+        "departure": "2:38",
+        "to_station": "BQB",
+        "arrival": "17:07"
+    },
+    {
+        "id": 555,
+        "train_name": "Nissan",
+        "from_station": "PRG",
+        "departure": "11:31",
+        "to_station": "NLD",
+        "arrival": "0:13"
+    },
+    {
+        "id": 556,
+        "train_name": "Honda",
+        "from_station": "TYP",
+        "departure": "7:59",
+        "to_station": "COD",
+        "arrival": "22:26"
+    },
+    {
+        "id": 557,
+        "train_name": "BMW",
+        "from_station": "DZI",
+        "departure": "13:30",
+        "to_station": "SCO",
+        "arrival": "3:45"
+    },
+    {
+        "id": 558,
+        "train_name": "Subaru",
+        "from_station": "OOR",
+        "departure": "1:53",
+        "to_station": "SMY",
+        "arrival": "6:21"
+    },
+    {
+        "id": 559,
+        "train_name": "Scion",
+        "from_station": "VOH",
+        "departure": "15:53",
+        "to_station": "BBC",
+        "arrival": "5:47"
+    },
+    {
+        "id": 560,
+        "train_name": "Toyota",
+        "from_station": "YXZ",
+        "departure": "17:59",
+        "to_station": "SUB",
+        "arrival": "2:37"
+    },
+    {
+        "id": 561,
+        "train_name": "Pontiac",
+        "from_station": "MAU",
+        "departure": "18:07",
+        "to_station": "SOX",
+        "arrival": "5:57"
+    },
+    {
+        "id": 562,
+        "train_name": "Hummer",
+        "from_station": "YOL",
+        "departure": "22:33",
+        "to_station": "THU",
+        "arrival": "6:40"
+    },
+    {
+        "id": 563,
+        "train_name": "Dodge",
+        "from_station": "SPP",
+        "departure": "15:09",
+        "to_station": "PHG",
+        "arrival": "23:19"
+    },
+    {
+        "id": 564,
+        "train_name": "Chevrolet",
+        "from_station": "MZD",
+        "departure": "19:00",
+        "to_station": "TAB",
+        "arrival": "17:36"
+    },
+    {
+        "id": 565,
+        "train_name": "Ford",
+        "from_station": "MFK",
+        "departure": "1:53",
+        "to_station": "BKO",
+        "arrival": "17:29"
+    },
+    {
+        "id": 566,
+        "train_name": "Dodge",
+        "from_station": "PKF",
+        "departure": "12:51",
+        "to_station": "YPD",
+        "arrival": "3:50"
+    },
+    {
+        "id": 567,
+        "train_name": "Jaguar",
+        "from_station": "ITH",
+        "departure": "23:09",
+        "to_station": "IRU",
+        "arrival": "21:26"
+    },
+    {
+        "id": 568,
+        "train_name": "Saab",
+        "from_station": "LSY",
+        "departure": "3:52",
+        "to_station": "KHD",
+        "arrival": "9:33"
+    },
+    {
+        "id": 569,
+        "train_name": "Pontiac",
+        "from_station": "TCB",
+        "departure": "12:09",
+        "to_station": "DXE",
+        "arrival": "19:29"
+    },
+    {
+        "id": 570,
+        "train_name": "GMC",
+        "from_station": "MSM",
+        "departure": "2:09",
+        "to_station": "JEQ",
+        "arrival": "11:01"
+    },
+    {
+        "id": 571,
+        "train_name": "Subaru",
+        "from_station": "IMB",
+        "departure": "6:30",
+        "to_station": "LOE",
+        "arrival": "7:14"
+    },
+    {
+        "id": 572,
+        "train_name": "Nissan",
+        "from_station": "DWA",
+        "departure": "7:32",
+        "to_station": "MZU",
+        "arrival": "7:10"
+    },
+    {
+        "id": 573,
+        "train_name": "Plymouth",
+        "from_station": "TSS",
+        "departure": "3:00",
+        "to_station": "RIS",
+        "arrival": "17:29"
+    },
+    {
+        "id": 574,
+        "train_name": "Mazda",
+        "from_station": "SBF",
+        "departure": "17:39",
+        "to_station": "PDD",
+        "arrival": "13:23"
+    },
+    {
+        "id": 575,
+        "train_name": "Ford",
+        "from_station": "FDH",
+        "departure": "22:11",
+        "to_station": "MXM",
+        "arrival": "7:56"
+    },
+    {
+        "id": 576,
+        "train_name": "Porsche",
+        "from_station": "CPR",
+        "departure": "8:45",
+        "to_station": "OGG",
+        "arrival": "11:21"
+    },
+    {
+        "id": 577,
+        "train_name": "Nissan",
+        "from_station": "FMC",
+        "departure": "20:18",
+        "to_station": "BER",
+        "arrival": "17:13"
+    },
+    {
+        "id": 578,
+        "train_name": "Land Rover",
+        "from_station": "ZHY",
+        "departure": "7:51",
+        "to_station": "AZO",
+        "arrival": "14:24"
+    },
+    {
+        "id": 579,
+        "train_name": "Chevrolet",
+        "from_station": "HTA",
+        "departure": "1:18",
+        "to_station": "AOS",
+        "arrival": "7:05"
+    },
+    {
+        "id": 580,
+        "train_name": "Ford",
+        "from_station": "CXF",
+        "departure": "7:41",
+        "to_station": "HKG",
+        "arrival": "1:39"
+    },
+    {
+        "id": 581,
+        "train_name": "Mercury",
+        "from_station": "GOR",
+        "departure": "8:04",
+        "to_station": "LUH",
+        "arrival": "21:09"
+    },
+    {
+        "id": 582,
+        "train_name": "Mercedes-Benz",
+        "from_station": "MQV",
+        "departure": "3:31",
+        "to_station": "OVS",
+        "arrival": "13:01"
+    },
+    {
+        "id": 583,
+        "train_name": "Toyota",
+        "from_station": "AEX",
+        "departure": "20:07",
+        "to_station": "BRB",
+        "arrival": "6:18"
+    },
+    {
+        "id": 584,
+        "train_name": "Mazda",
+        "from_station": "HKT",
+        "departure": "8:59",
+        "to_station": "ASP",
+        "arrival": "1:17"
+    },
+    {
+        "id": 585,
+        "train_name": "Chrysler",
+        "from_station": "PJB",
+        "departure": "23:19",
+        "to_station": "SLD",
+        "arrival": "18:05"
+    },
+    {
+        "id": 586,
+        "train_name": "Ford",
+        "from_station": "JHQ",
+        "departure": "21:23",
+        "to_station": "YSK",
+        "arrival": "22:12"
+    },
+    {
+        "id": 587,
+        "train_name": "Mazda",
+        "from_station": "LGO",
+        "departure": "22:53",
+        "to_station": "HPA",
+        "arrival": "19:40"
+    },
+    {
+        "id": 588,
+        "train_name": "Dodge",
+        "from_station": "GIU",
+        "departure": "12:36",
+        "to_station": "CVM",
+        "arrival": "14:04"
+    },
+    {
+        "id": 589,
+        "train_name": "Chevrolet",
+        "from_station": "CTY",
+        "departure": "23:45",
+        "to_station": "CEV",
+        "arrival": "10:11"
+    },
+    {
+        "id": 590,
+        "train_name": "Lincoln",
+        "from_station": "NZH",
+        "departure": "3:20",
+        "to_station": "XBX",
+        "arrival": "11:48"
+    },
+    {
+        "id": 591,
+        "train_name": "Nissan",
+        "from_station": "LNO",
+        "departure": "16:54",
+        "to_station": "PAZ",
+        "arrival": "16:28"
+    },
+    {
+        "id": 592,
+        "train_name": "Acura",
+        "from_station": "MJN",
+        "departure": "3:07",
+        "to_station": "YXX",
+        "arrival": "20:36"
+    },
+    {
+        "id": 593,
+        "train_name": "Chevrolet",
+        "from_station": "CUO",
+        "departure": "3:20",
+        "to_station": "TGR",
+        "arrival": "22:15"
+    },
+    {
+        "id": 594,
+        "train_name": "Chrysler",
+        "from_station": "GLD",
+        "departure": "15:31",
+        "to_station": "RFR",
+        "arrival": "1:20"
+    },
+    {
+        "id": 595,
+        "train_name": "Chrysler",
+        "from_station": "TPE",
+        "departure": "7:44",
+        "to_station": "TFM",
+        "arrival": "18:10"
+    },
+    {
+        "id": 596,
+        "train_name": "Honda",
+        "from_station": "YKE",
+        "departure": "12:02",
+        "to_station": "NDK",
+        "arrival": "19:37"
+    },
+    {
+        "id": 597,
+        "train_name": "Honda",
+        "from_station": "PRC",
+        "departure": "14:36",
+        "to_station": "LMC",
+        "arrival": "3:56"
+    },
+    {
+        "id": 598,
+        "train_name": "Chevrolet",
+        "from_station": "ASM",
+        "departure": "2:03",
+        "to_station": "PAJ",
+        "arrival": "16:13"
+    },
+    {
+        "id": 599,
+        "train_name": "Jaguar",
+        "from_station": "RSW",
+        "departure": "8:23",
+        "to_station": "TMN",
+        "arrival": "8:02"
+    },
+    {
+        "id": 600,
+        "train_name": "Volkswagen",
+        "from_station": "HTM",
+        "departure": "5:42",
+        "to_station": "RFN",
+        "arrival": "18:21"
+    },
+    {
+        "id": 601,
+        "train_name": "Honda",
+        "from_station": "ZQL",
+        "departure": "6:03",
+        "to_station": "RAK",
+        "arrival": "11:15"
+    },
+    {
+        "id": 602,
+        "train_name": "Volvo",
+        "from_station": "EVG",
+        "departure": "18:00",
+        "to_station": "PGP",
+        "arrival": "14:38"
+    },
+    {
+        "id": 603,
+        "train_name": "Ford",
+        "from_station": "LDM",
+        "departure": "4:22",
+        "to_station": "AOB",
+        "arrival": "16:30"
+    },
+    {
+        "id": 604,
+        "train_name": "Mercedes-Benz",
+        "from_station": "CRB",
+        "departure": "10:51",
+        "to_station": "UDN",
+        "arrival": "3:14"
+    },
+    {
+        "id": 605,
+        "train_name": "Hummer",
+        "from_station": "STQ",
+        "departure": "13:09",
+        "to_station": "OSU",
+        "arrival": "23:23"
+    },
+    {
+        "id": 606,
+        "train_name": "Suzuki",
+        "from_station": "AWA",
+        "departure": "4:19",
+        "to_station": "COI",
+        "arrival": "3:02"
+    },
+    {
+        "id": 607,
+        "train_name": "Dodge",
+        "from_station": "MFZ",
+        "departure": "4:39",
+        "to_station": "SVZ",
+        "arrival": "22:03"
+    },
+    {
+        "id": 608,
+        "train_name": "Mercury",
+        "from_station": "CTG",
+        "departure": "22:34",
+        "to_station": "ECG",
+        "arrival": "16:08"
+    },
+    {
+        "id": 609,
+        "train_name": "Buick",
+        "from_station": "FNU",
+        "departure": "5:34",
+        "to_station": "KMX",
+        "arrival": "6:16"
+    },
+    {
+        "id": 610,
+        "train_name": "Porsche",
+        "from_station": "KYT",
+        "departure": "5:54",
+        "to_station": "MUI",
+        "arrival": "8:08"
+    },
+    {
+        "id": 611,
+        "train_name": "Toyota",
+        "from_station": "EDK",
+        "departure": "3:40",
+        "to_station": "YPC",
+        "arrival": "0:32"
+    },
+    {
+        "id": 612,
+        "train_name": "Chevrolet",
+        "from_station": "DUE",
+        "departure": "1:46",
+        "to_station": "BJF",
+        "arrival": "23:16"
+    },
+    {
+        "id": 613,
+        "train_name": "Nissan",
+        "from_station": "SWQ",
+        "departure": "18:12",
+        "to_station": "UVO",
+        "arrival": "19:05"
+    },
+    {
+        "id": 614,
+        "train_name": "Dodge",
+        "from_station": "COM",
+        "departure": "13:13",
+        "to_station": "YIO",
+        "arrival": "2:59"
+    },
+    {
+        "id": 615,
+        "train_name": "Honda",
+        "from_station": "EFL",
+        "departure": "18:56",
+        "to_station": "BYN",
+        "arrival": "0:56"
+    },
+    {
+        "id": 616,
+        "train_name": "Mercedes-Benz",
+        "from_station": "DTE",
+        "departure": "7:29",
+        "to_station": "-",
+        "arrival": "20:48"
+    },
+    {
+        "id": 617,
+        "train_name": "Mazda",
+        "from_station": "AUS",
+        "departure": "17:52",
+        "to_station": "ULX",
+        "arrival": "23:50"
+    },
+    {
+        "id": 618,
+        "train_name": "Dodge",
+        "from_station": "SGW",
+        "departure": "1:08",
+        "to_station": "XMD",
+        "arrival": "0:04"
+    },
+    {
+        "id": 619,
+        "train_name": "Lincoln",
+        "from_station": "ODA",
+        "departure": "14:08",
+        "to_station": "LYT",
+        "arrival": "5:35"
+    },
+    {
+        "id": 620,
+        "train_name": "Ford",
+        "from_station": "LBT",
+        "departure": "11:59",
+        "to_station": "YFX",
+        "arrival": "15:55"
+    },
+    {
+        "id": 621,
+        "train_name": "Volvo",
+        "from_station": "DNG",
+        "departure": "5:39",
+        "to_station": "FDE",
+        "arrival": "13:36"
+    },
+    {
+        "id": 622,
+        "train_name": "Buick",
+        "from_station": "SNX",
+        "departure": "13:58",
+        "to_station": "BQI",
+        "arrival": "11:09"
+    },
+    {
+        "id": 623,
+        "train_name": "Infiniti",
+        "from_station": "NKM",
+        "departure": "21:13",
+        "to_station": "JKG",
+        "arrival": "23:15"
+    },
+    {
+        "id": 624,
+        "train_name": "Porsche",
+        "from_station": "SPC",
+        "departure": "19:27",
+        "to_station": "YUM",
+        "arrival": "6:25"
+    },
+    {
+        "id": 625,
+        "train_name": "Ford",
+        "from_station": "KEK",
+        "departure": "6:01",
+        "to_station": "EKX",
+        "arrival": "13:11"
+    },
+    {
+        "id": 626,
+        "train_name": "GMC",
+        "from_station": "AHU",
+        "departure": "12:37",
+        "to_station": "PWN",
+        "arrival": "2:14"
+    },
+    {
+        "id": 627,
+        "train_name": "Mazda",
+        "from_station": "MVS",
+        "departure": "7:31",
+        "to_station": "MYO",
+        "arrival": "12:01"
+    },
+    {
+        "id": 628,
+        "train_name": "Dodge",
+        "from_station": "MHD",
+        "departure": "20:54",
+        "to_station": "IRU",
+        "arrival": "1:48"
+    },
+    {
+        "id": 629,
+        "train_name": "Ford",
+        "from_station": "ZWA",
+        "departure": "22:17",
+        "to_station": "KGY",
+        "arrival": "14:01"
+    },
+    {
+        "id": 630,
+        "train_name": "Lotus",
+        "from_station": "WEI",
+        "departure": "21:33",
+        "to_station": "KTQ",
+        "arrival": "1:50"
+    },
+    {
+        "id": 631,
+        "train_name": "GMC",
+        "from_station": "YDF",
+        "departure": "20:44",
+        "to_station": "CRO",
+        "arrival": "16:07"
+    },
+    {
+        "id": 632,
+        "train_name": "Ford",
+        "from_station": "HAL",
+        "departure": "0:24",
+        "to_station": "CLA",
+        "arrival": "22:30"
+    },
+    {
+        "id": 633,
+        "train_name": "Chrysler",
+        "from_station": "HLS",
+        "departure": "4:07",
+        "to_station": "BEP",
+        "arrival": "0:21"
+    },
+    {
+        "id": 634,
+        "train_name": "Chevrolet",
+        "from_station": "UMR",
+        "departure": "16:59",
+        "to_station": "ERS",
+        "arrival": "20:36"
+    },
+    {
+        "id": 635,
+        "train_name": "Audi",
+        "from_station": "BPI",
+        "departure": "2:05",
+        "to_station": "MSX",
+        "arrival": "23:43"
+    },
+    {
+        "id": 636,
+        "train_name": "Honda",
+        "from_station": "MBU",
+        "departure": "13:35",
+        "to_station": "TDS",
+        "arrival": "12:55"
+    },
+    {
+        "id": 637,
+        "train_name": "Oldsmobile",
+        "from_station": "KSU",
+        "departure": "12:22",
+        "to_station": "DAK",
+        "arrival": "2:48"
+    },
+    {
+        "id": 638,
+        "train_name": "Porsche",
+        "from_station": "PMI",
+        "departure": "1:52",
+        "to_station": "JUL",
+        "arrival": "8:42"
+    },
+    {
+        "id": 639,
+        "train_name": "Mitsubishi",
+        "from_station": "GYM",
+        "departure": "18:18",
+        "to_station": "ARA",
+        "arrival": "13:01"
+    },
+    {
+        "id": 640,
+        "train_name": "Infiniti",
+        "from_station": "MOQ",
+        "departure": "23:55",
+        "to_station": "UKX",
+        "arrival": "16:35"
+    },
+    {
+        "id": 641,
+        "train_name": "Mercury",
+        "from_station": "KUF",
+        "departure": "19:48",
+        "to_station": "BEP",
+        "arrival": "15:47"
+    },
+    {
+        "id": 642,
+        "train_name": "Chevrolet",
+        "from_station": "WVK",
+        "departure": "10:12",
+        "to_station": "ZKB",
+        "arrival": "21:09"
+    },
+    {
+        "id": 643,
+        "train_name": "Buick",
+        "from_station": "EGH",
+        "departure": "9:34",
+        "to_station": "PGM",
+        "arrival": "21:50"
+    },
+    {
+        "id": 644,
+        "train_name": "Jaguar",
+        "from_station": "NVS",
+        "departure": "20:12",
+        "to_station": "WTD",
+        "arrival": "23:01"
+    },
+    {
+        "id": 645,
+        "train_name": "Chevrolet",
+        "from_station": "WKN",
+        "departure": "22:53",
+        "to_station": "HAB",
+        "arrival": "7:21"
+    },
+    {
+        "id": 646,
+        "train_name": "Porsche",
+        "from_station": "SUE",
+        "departure": "3:46",
+        "to_station": "SLI",
+        "arrival": "3:30"
+    },
+    {
+        "id": 647,
+        "train_name": "Pontiac",
+        "from_station": "BVC",
+        "departure": "4:42",
+        "to_station": "HTI",
+        "arrival": "3:26"
+    },
+    {
+        "id": 648,
+        "train_name": "Porsche",
+        "from_station": "ATA",
+        "departure": "8:04",
+        "to_station": "TMN",
+        "arrival": "9:40"
+    },
+    {
+        "id": 649,
+        "train_name": "Chrysler",
+        "from_station": "TDA",
+        "departure": "23:03",
+        "to_station": "PMH",
+        "arrival": "0:06"
+    },
+    {
+        "id": 650,
+        "train_name": "Ford",
+        "from_station": "TCK",
+        "departure": "21:09",
+        "to_station": "TIK",
+        "arrival": "3:59"
+    },
+    {
+        "id": 651,
+        "train_name": "Ford",
+        "from_station": "FAB",
+        "departure": "17:34",
+        "to_station": "CIE",
+        "arrival": "4:58"
+    },
+    {
+        "id": 652,
+        "train_name": "Saab",
+        "from_station": "NUR",
+        "departure": "6:59",
+        "to_station": "YOD",
+        "arrival": "4:57"
+    },
+    {
+        "id": 653,
+        "train_name": "Cadillac",
+        "from_station": "DOH",
+        "departure": "22:07",
+        "to_station": "PME",
+        "arrival": "6:39"
+    },
+    {
+        "id": 654,
+        "train_name": "Dodge",
+        "from_station": "BZC",
+        "departure": "4:21",
+        "to_station": "JRS",
+        "arrival": "10:16"
+    },
+    {
+        "id": 655,
+        "train_name": "Hyundai",
+        "from_station": "PAK",
+        "departure": "1:50",
+        "to_station": "SWQ",
+        "arrival": "23:22"
+    },
+    {
+        "id": 656,
+        "train_name": "Oldsmobile",
+        "from_station": "TLK",
+        "departure": "19:42",
+        "to_station": "CJA",
+        "arrival": "20:56"
+    },
+    {
+        "id": 657,
+        "train_name": "Nissan",
+        "from_station": "PUT",
+        "departure": "5:18",
+        "to_station": "IBP",
+        "arrival": "9:30"
+    },
+    {
+        "id": 658,
+        "train_name": "Volkswagen",
+        "from_station": "THD",
+        "departure": "9:22",
+        "to_station": "TWP",
+        "arrival": "23:15"
+    },
+    {
+        "id": 659,
+        "train_name": "Buick",
+        "from_station": "HAO",
+        "departure": "4:57",
+        "to_station": "AQG",
+        "arrival": "0:57"
+    },
+    {
+        "id": 660,
+        "train_name": "Audi",
+        "from_station": "LEC",
+        "departure": "23:37",
+        "to_station": "PNE",
+        "arrival": "8:48"
+    },
+    {
+        "id": 661,
+        "train_name": "Dodge",
+        "from_station": "EHT",
+        "departure": "11:48",
+        "to_station": "LEO",
+        "arrival": "16:49"
+    },
+    {
+        "id": 662,
+        "train_name": "Isuzu",
+        "from_station": "JNB",
+        "departure": "21:33",
+        "to_station": "BIQ",
+        "arrival": "23:33"
+    },
+    {
+        "id": 663,
+        "train_name": "Lincoln",
+        "from_station": "OWD",
+        "departure": "2:38",
+        "to_station": "DOB",
+        "arrival": "3:54"
+    },
+    {
+        "id": 664,
+        "train_name": "Mazda",
+        "from_station": "WRE",
+        "departure": "4:10",
+        "to_station": "PXM",
+        "arrival": "20:18"
+    },
+    {
+        "id": 665,
+        "train_name": "Ford",
+        "from_station": "INV",
+        "departure": "21:01",
+        "to_station": "BYR",
+        "arrival": "4:09"
+    },
+    {
+        "id": 666,
+        "train_name": "Land Rover",
+        "from_station": "BQJ",
+        "departure": "4:25",
+        "to_station": "YXU",
+        "arrival": "13:10"
+    },
+    {
+        "id": 667,
+        "train_name": "Aston Martin",
+        "from_station": "BJI",
+        "departure": "1:17",
+        "to_station": "RYK",
+        "arrival": "7:56"
+    },
+    {
+        "id": 668,
+        "train_name": "Mazda",
+        "from_station": "YXD",
+        "departure": "0:59",
+        "to_station": "QEF",
+        "arrival": "15:02"
+    },
+    {
+        "id": 669,
+        "train_name": "Chrysler",
+        "from_station": "VKG",
+        "departure": "18:57",
+        "to_station": "MFW",
+        "arrival": "4:21"
+    },
+    {
+        "id": 670,
+        "train_name": "Mitsubishi",
+        "from_station": "MEB",
+        "departure": "6:56",
+        "to_station": "ALT",
+        "arrival": "2:36"
+    },
+    {
+        "id": 671,
+        "train_name": "Dodge",
+        "from_station": "YSD",
+        "departure": "22:00",
+        "to_station": "BFA",
+        "arrival": "16:08"
+    },
+    {
+        "id": 672,
+        "train_name": "Acura",
+        "from_station": "TNK",
+        "departure": "0:23",
+        "to_station": "XIY",
+        "arrival": "5:08"
+    },
+    {
+        "id": 673,
+        "train_name": "Pontiac",
+        "from_station": "0",
+        "departure": "12:58",
+        "to_station": "YUD",
+        "arrival": "5:58"
+    },
+    {
+        "id": 674,
+        "train_name": "Mitsubishi",
+        "from_station": "PDZ",
+        "departure": "16:36",
+        "to_station": "DHA",
+        "arrival": "20:22"
+    },
+    {
+        "id": 675,
+        "train_name": "Saturn",
+        "from_station": "GYY",
+        "departure": "0:59",
+        "to_station": "CMR",
+        "arrival": "8:24"
+    },
+    {
+        "id": 676,
+        "train_name": "Mercedes-Benz",
+        "from_station": "LYB",
+        "departure": "2:57",
+        "to_station": "FCA",
+        "arrival": "0:51"
+    },
+    {
+        "id": 677,
+        "train_name": "Dodge",
+        "from_station": "ZPC",
+        "departure": "17:53",
+        "to_station": "MLO",
+        "arrival": "14:18"
+    },
+    {
+        "id": 678,
+        "train_name": "Nissan",
+        "from_station": "PYX",
+        "departure": "2:58",
+        "to_station": "LWB",
+        "arrival": "16:47"
+    },
+    {
+        "id": 679,
+        "train_name": "Ford",
+        "from_station": "PRG",
+        "departure": "8:32",
+        "to_station": "ALH",
+        "arrival": "23:16"
+    },
+    {
+        "id": 680,
+        "train_name": "Saturn",
+        "from_station": "PAE",
+        "departure": "22:36",
+        "to_station": "BBI",
+        "arrival": "14:46"
+    },
+    {
+        "id": 681,
+        "train_name": "Buick",
+        "from_station": "LQM",
+        "departure": "11:12",
+        "to_station": "NTD",
+        "arrival": "13:52"
+    },
+    {
+        "id": 682,
+        "train_name": "Ford",
+        "from_station": "MAT",
+        "departure": "17:03",
+        "to_station": "SBC",
+        "arrival": "14:25"
+    },
+    {
+        "id": 683,
+        "train_name": "Dodge",
+        "from_station": "PZY",
+        "departure": "5:51",
+        "to_station": "QQT",
+        "arrival": "5:40"
+    },
+    {
+        "id": 684,
+        "train_name": "Ford",
+        "from_station": "ELX",
+        "departure": "17:10",
+        "to_station": "LTT",
+        "arrival": "18:48"
+    },
+    {
+        "id": 685,
+        "train_name": "Chevrolet",
+        "from_station": "CUB",
+        "departure": "19:15",
+        "to_station": "ELO",
+        "arrival": "17:42"
+    },
+    {
+        "id": 686,
+        "train_name": "Maybach",
+        "from_station": "ZNE",
+        "departure": "3:46",
+        "to_station": "AMQ",
+        "arrival": "15:32"
+    },
+    {
+        "id": 687,
+        "train_name": "Lexus",
+        "from_station": "ALL",
+        "departure": "21:54",
+        "to_station": "POR",
+        "arrival": "20:56"
+    },
+    {
+        "id": 688,
+        "train_name": "Pontiac",
+        "from_station": "ZKP",
+        "departure": "11:21",
+        "to_station": "TQS",
+        "arrival": "14:28"
+    },
+    {
+        "id": 689,
+        "train_name": "Volkswagen",
+        "from_station": "BKK",
+        "departure": "3:27",
+        "to_station": "PAT",
+        "arrival": "21:04"
+    },
+    {
+        "id": 690,
+        "train_name": "Chevrolet",
+        "from_station": "KRV",
+        "departure": "8:41",
+        "to_station": "RVR",
+        "arrival": "8:26"
+    },
+    {
+        "id": 691,
+        "train_name": "BMW",
+        "from_station": "WAC",
+        "departure": "19:08",
+        "to_station": "JAM",
+        "arrival": "2:03"
+    },
+    {
+        "id": 692,
+        "train_name": "Ford",
+        "from_station": "MTE",
+        "departure": "19:27",
+        "to_station": "PRM",
+        "arrival": "23:56"
+    },
+    {
+        "id": 693,
+        "train_name": "Pontiac",
+        "from_station": "PVW",
+        "departure": "6:16",
+        "to_station": "ROZ",
+        "arrival": "13:28"
+    },
+    {
+        "id": 694,
+        "train_name": "Lexus",
+        "from_station": "ITI",
+        "departure": "0:51",
+        "to_station": "BIG",
+        "arrival": "9:11"
+    },
+    {
+        "id": 695,
+        "train_name": "Audi",
+        "from_station": "ZVG",
+        "departure": "15:06",
+        "to_station": "KTA",
+        "arrival": "12:25"
+    },
+    {
+        "id": 696,
+        "train_name": "Ford",
+        "from_station": "YMJ",
+        "departure": "21:14",
+        "to_station": "TTA",
+        "arrival": "19:42"
+    },
+    {
+        "id": 697,
+        "train_name": "Pontiac",
+        "from_station": "RRK",
+        "departure": "21:05",
+        "to_station": "BGJ",
+        "arrival": "13:39"
+    },
+    {
+        "id": 698,
+        "train_name": "Porsche",
+        "from_station": "WPR",
+        "departure": "8:51",
+        "to_station": "YBY",
+        "arrival": "14:49"
+    },
+    {
+        "id": 699,
+        "train_name": "Pontiac",
+        "from_station": "BBR",
+        "departure": "23:38",
+        "to_station": "ACL",
+        "arrival": "12:16"
+    },
+    {
+        "id": 700,
+        "train_name": "Nissan",
+        "from_station": "LMS",
+        "departure": "21:52",
+        "to_station": "LIL",
+        "arrival": "20:14"
+    },
+    {
+        "id": 701,
+        "train_name": "Mitsubishi",
+        "from_station": "YER",
+        "departure": "6:19",
+        "to_station": "ISI",
+        "arrival": "23:37"
+    },
+    {
+        "id": 702,
+        "train_name": "Ford",
+        "from_station": "MKE",
+        "departure": "4:31",
+        "to_station": "KMT",
+        "arrival": "15:19"
+    },
+    {
+        "id": 703,
+        "train_name": "MINI",
+        "from_station": "GAC",
+        "departure": "23:07",
+        "to_station": "YOL",
+        "arrival": "21:51"
+    },
+    {
+        "id": 704,
+        "train_name": "Lamborghini",
+        "from_station": "AID",
+        "departure": "23:30",
+        "to_station": "YAZ",
+        "arrival": "18:36"
+    },
+    {
+        "id": 705,
+        "train_name": "BMW",
+        "from_station": "BKQ",
+        "departure": "17:36",
+        "to_station": "KOY",
+        "arrival": "8:41"
+    },
+    {
+        "id": 706,
+        "train_name": "Hyundai",
+        "from_station": "KRB",
+        "departure": "1:45",
+        "to_station": "UJN",
+        "arrival": "22:39"
+    },
+    {
+        "id": 707,
+        "train_name": "Hyundai",
+        "from_station": "WEI",
+        "departure": "12:32",
+        "to_station": "IGR",
+        "arrival": "12:45"
+    },
+    {
+        "id": 708,
+        "train_name": "Chevrolet",
+        "from_station": "WMX",
+        "departure": "14:44",
+        "to_station": "RVK",
+        "arrival": "3:51"
+    },
+    {
+        "id": 709,
+        "train_name": "Volkswagen",
+        "from_station": "CAE",
+        "departure": "22:47",
+        "to_station": "IDK",
+        "arrival": "13:55"
+    },
+    {
+        "id": 710,
+        "train_name": "Saturn",
+        "from_station": "RCA",
+        "departure": "8:44",
+        "to_station": "GMU",
+        "arrival": "21:00"
+    },
+    {
+        "id": 711,
+        "train_name": "BMW",
+        "from_station": "RAR",
+        "departure": "0:10",
+        "to_station": "MVU",
+        "arrival": "23:06"
+    },
+    {
+        "id": 712,
+        "train_name": "Acura",
+        "from_station": "TRZ",
+        "departure": "15:51",
+        "to_station": "BMD",
+        "arrival": "23:51"
+    },
+    {
+        "id": 713,
+        "train_name": "Nissan",
+        "from_station": "TLE",
+        "departure": "9:12",
+        "to_station": "PSA",
+        "arrival": "19:42"
+    },
+    {
+        "id": 714,
+        "train_name": "Maserati",
+        "from_station": "GDC",
+        "departure": "17:33",
+        "to_station": "CBQ",
+        "arrival": "10:46"
+    },
+    {
+        "id": 715,
+        "train_name": "Dodge",
+        "from_station": "QNJ",
+        "departure": "10:17",
+        "to_station": "MMS",
+        "arrival": "12:09"
+    },
+    {
+        "id": 716,
+        "train_name": "Volkswagen",
+        "from_station": "MPJ",
+        "departure": "1:23",
+        "to_station": "QNC",
+        "arrival": "5:17"
+    },
+    {
+        "id": 717,
+        "train_name": "Rolls-Royce",
+        "from_station": "PZE",
+        "departure": "8:50",
+        "to_station": "GIY",
+        "arrival": "9:11"
+    },
+    {
+        "id": 718,
+        "train_name": "GMC",
+        "from_station": "XAP",
+        "departure": "23:37",
+        "to_station": "PEZ",
+        "arrival": "12:28"
+    },
+    {
+        "id": 719,
+        "train_name": "Mazda",
+        "from_station": "SMA",
+        "departure": "0:47",
+        "to_station": "ZRZ",
+        "arrival": "10:05"
+    },
+    {
+        "id": 720,
+        "train_name": "Isuzu",
+        "from_station": "YDE",
+        "departure": "19:28",
+        "to_station": "LNV",
+        "arrival": "20:17"
+    },
+    {
+        "id": 721,
+        "train_name": "Dodge",
+        "from_station": "YVZ",
+        "departure": "1:58",
+        "to_station": "LEC",
+        "arrival": "14:31"
+    },
+    {
+        "id": 722,
+        "train_name": "Toyota",
+        "from_station": "YIW",
+        "departure": "12:24",
+        "to_station": "BKC",
+        "arrival": "14:54"
+    },
+    {
+        "id": 723,
+        "train_name": "Oldsmobile",
+        "from_station": "OPI",
+        "departure": "11:19",
+        "to_station": "EFD",
+        "arrival": "20:11"
+    },
+    {
+        "id": 724,
+        "train_name": "Volvo",
+        "from_station": "SOW",
+        "departure": "21:12",
+        "to_station": "CCV",
+        "arrival": "0:31"
+    },
+    {
+        "id": 725,
+        "train_name": "Dodge",
+        "from_station": "DLR",
+        "departure": "19:47",
+        "to_station": "PTW",
+        "arrival": "9:16"
+    },
+    {
+        "id": 726,
+        "train_name": "Chevrolet",
+        "from_station": "OKN",
+        "departure": "13:04",
+        "to_station": "CMX",
+        "arrival": "15:21"
+    },
+    {
+        "id": 727,
+        "train_name": "Mitsubishi",
+        "from_station": "MSL",
+        "departure": "11:39",
+        "to_station": "HMI",
+        "arrival": "6:04"
+    },
+    {
+        "id": 728,
+        "train_name": "Honda",
+        "from_station": "ABA",
+        "departure": "1:40",
+        "to_station": "LCK",
+        "arrival": "8:00"
+    },
+    {
+        "id": 729,
+        "train_name": "Mercedes-Benz",
+        "from_station": "SDM",
+        "departure": "2:15",
+        "to_station": "GKT",
+        "arrival": "17:57"
+    },
+    {
+        "id": 730,
+        "train_name": "Chevrolet",
+        "from_station": "HOE",
+        "departure": "16:52",
+        "to_station": "VIH",
+        "arrival": "7:14"
+    },
+    {
+        "id": 731,
+        "train_name": "Jeep",
+        "from_station": "EBG",
+        "departure": "4:00",
+        "to_station": "RBE",
+        "arrival": "20:46"
+    },
+    {
+        "id": 732,
+        "train_name": "Toyota",
+        "from_station": "XCR",
+        "departure": "5:49",
+        "to_station": "DOU",
+        "arrival": "14:27"
+    },
+    {
+        "id": 733,
+        "train_name": "Dodge",
+        "from_station": "OBD",
+        "departure": "16:10",
+        "to_station": "NKM",
+        "arrival": "16:56"
+    },
+    {
+        "id": 734,
+        "train_name": "Honda",
+        "from_station": "0",
+        "departure": "6:11",
+        "to_station": "KOQ",
+        "arrival": "7:46"
+    },
+    {
+        "id": 735,
+        "train_name": "Eagle",
+        "from_station": "GJT",
+        "departure": "21:06",
+        "to_station": "IVI",
+        "arrival": "13:27"
+    },
+    {
+        "id": 736,
+        "train_name": "Buick",
+        "from_station": "ESA",
+        "departure": "1:52",
+        "to_station": "0",
+        "arrival": "6:53"
+    },
+    {
+        "id": 737,
+        "train_name": "Mercury",
+        "from_station": "ZTR",
+        "departure": "4:10",
+        "to_station": "NIO",
+        "arrival": "16:16"
+    },
+    {
+        "id": 738,
+        "train_name": "Chevrolet",
+        "from_station": "BNC",
+        "departure": "16:19",
+        "to_station": "WGB",
+        "arrival": "8:11"
+    },
+    {
+        "id": 739,
+        "train_name": "Lincoln",
+        "from_station": "JBR",
+        "departure": "5:34",
+        "to_station": "VLI",
+        "arrival": "8:09"
+    },
+    {
+        "id": 740,
+        "train_name": "Buick",
+        "from_station": "RRT",
+        "departure": "16:49",
+        "to_station": "RTA",
+        "arrival": "8:45"
+    },
+    {
+        "id": 741,
+        "train_name": "Toyota",
+        "from_station": "PAM",
+        "departure": "20:16",
+        "to_station": "AZS",
+        "arrival": "6:44"
+    },
+    {
+        "id": 742,
+        "train_name": "Toyota",
+        "from_station": "CPU",
+        "departure": "18:52",
+        "to_station": "VCE",
+        "arrival": "11:27"
+    },
+    {
+        "id": 743,
+        "train_name": "Audi",
+        "from_station": "WGB",
+        "departure": "4:31",
+        "to_station": "HSG",
+        "arrival": "7:34"
+    },
+    {
+        "id": 744,
+        "train_name": "Mercury",
+        "from_station": "PXH",
+        "departure": "12:38",
+        "to_station": "SVL",
+        "arrival": "22:39"
+    },
+    {
+        "id": 745,
+        "train_name": "Cadillac",
+        "from_station": "MPY",
+        "departure": "6:09",
+        "to_station": "MSH",
+        "arrival": "13:27"
+    },
+    {
+        "id": 746,
+        "train_name": "Audi",
+        "from_station": "SQU",
+        "departure": "0:19",
+        "to_station": "ESU",
+        "arrival": "13:45"
+    },
+    {
+        "id": 747,
+        "train_name": "Land Rover",
+        "from_station": "YZW",
+        "departure": "5:03",
+        "to_station": "TWA",
+        "arrival": "16:35"
+    },
+    {
+        "id": 748,
+        "train_name": "Lexus",
+        "from_station": "MGS",
+        "departure": "3:28",
+        "to_station": "SNO",
+        "arrival": "10:43"
+    },
+    {
+        "id": 749,
+        "train_name": "Pontiac",
+        "from_station": "GNG",
+        "departure": "20:26",
+        "to_station": "YVO",
+        "arrival": "1:06"
+    },
+    {
+        "id": 750,
+        "train_name": "Chrysler",
+        "from_station": "SSR",
+        "departure": "13:14",
+        "to_station": "PST",
+        "arrival": "15:40"
+    },
+    {
+        "id": 751,
+        "train_name": "Kia",
+        "from_station": "KIX",
+        "departure": "15:42",
+        "to_station": "KBX",
+        "arrival": "3:13"
+    },
+    {
+        "id": 752,
+        "train_name": "Mazda",
+        "from_station": "HOF",
+        "departure": "8:02",
+        "to_station": "ULN",
+        "arrival": "13:13"
+    },
+    {
+        "id": 753,
+        "train_name": "Lexus",
+        "from_station": "GUD",
+        "departure": "19:09",
+        "to_station": "TBB",
+        "arrival": "12:00"
+    },
+    {
+        "id": 754,
+        "train_name": "Saturn",
+        "from_station": "JIC",
+        "departure": "17:59",
+        "to_station": "CEP",
+        "arrival": "12:16"
+    },
+    {
+        "id": 755,
+        "train_name": "Lexus",
+        "from_station": "AUV",
+        "departure": "6:11",
+        "to_station": "DGT",
+        "arrival": "15:20"
+    },
+    {
+        "id": 756,
+        "train_name": "Isuzu",
+        "from_station": "CXJ",
+        "departure": "4:28",
+        "to_station": "KSN",
+        "arrival": "16:34"
+    },
+    {
+        "id": 757,
+        "train_name": "Kia",
+        "from_station": "KMS",
+        "departure": "0:49",
+        "to_station": "LWV",
+        "arrival": "19:29"
+    },
+    {
+        "id": 758,
+        "train_name": "Lexus",
+        "from_station": "EDD",
+        "departure": "14:25",
+        "to_station": "PEY",
+        "arrival": "9:02"
+    },
+    {
+        "id": 759,
+        "train_name": "Lexus",
+        "from_station": "KSP",
+        "departure": "0:27",
+        "to_station": "RRL",
+        "arrival": "16:12"
+    },
+    {
+        "id": 760,
+        "train_name": "Volkswagen",
+        "from_station": "KEK",
+        "departure": "17:06",
+        "to_station": "JPB",
+        "arrival": "21:21"
+    },
+    {
+        "id": 761,
+        "train_name": "Lexus",
+        "from_station": "RNI",
+        "departure": "23:56",
+        "to_station": "BEC",
+        "arrival": "10:31"
+    },
+    {
+        "id": 762,
+        "train_name": "Mercedes-Benz",
+        "from_station": "KHM",
+        "departure": "9:15",
+        "to_station": "XSO",
+        "arrival": "17:12"
+    },
+    {
+        "id": 763,
+        "train_name": "Audi",
+        "from_station": "RBM",
+        "departure": "11:26",
+        "to_station": "MGC",
+        "arrival": "22:08"
+    },
+    {
+        "id": 764,
+        "train_name": "GMC",
+        "from_station": "KND",
+        "departure": "19:00",
+        "to_station": "AGO",
+        "arrival": "0:57"
+    },
+    {
+        "id": 765,
+        "train_name": "Chevrolet",
+        "from_station": "0",
+        "departure": "9:33",
+        "to_station": "HTH",
+        "arrival": "4:01"
+    },
+    {
+        "id": 766,
+        "train_name": "Suzuki",
+        "from_station": "PDT",
+        "departure": "17:56",
+        "to_station": "GSJ",
+        "arrival": "18:14"
+    },
+    {
+        "id": 767,
+        "train_name": "Dodge",
+        "from_station": "MCB",
+        "departure": "14:24",
+        "to_station": "CGM",
+        "arrival": "14:55"
+    },
+    {
+        "id": 768,
+        "train_name": "Dodge",
+        "from_station": "SLH",
+        "departure": "1:32",
+        "to_station": "DUC",
+        "arrival": "16:15"
+    },
+    {
+        "id": 769,
+        "train_name": "GMC",
+        "from_station": "KUS",
+        "departure": "1:47",
+        "to_station": "ERD",
+        "arrival": "22:47"
+    },
+    {
+        "id": 770,
+        "train_name": "Mazda",
+        "from_station": "SFK",
+        "departure": "21:22",
+        "to_station": "HPB",
+        "arrival": "16:18"
+    },
+    {
+        "id": 771,
+        "train_name": "Mitsubishi",
+        "from_station": "CMQ",
+        "departure": "14:59",
+        "to_station": "IGU",
+        "arrival": "22:14"
+    },
+    {
+        "id": 772,
+        "train_name": "Toyota",
+        "from_station": "YKD",
+        "departure": "13:28",
+        "to_station": "UHE",
+        "arrival": "22:53"
+    },
+    {
+        "id": 773,
+        "train_name": "Chevrolet",
+        "from_station": "PUI",
+        "departure": "11:04",
+        "to_station": "SNX",
+        "arrival": "10:48"
+    },
+    {
+        "id": 774,
+        "train_name": "Subaru",
+        "from_station": "SFM",
+        "departure": "13:55",
+        "to_station": "OBM",
+        "arrival": "6:42"
+    },
+    {
+        "id": 775,
+        "train_name": "Daewoo",
+        "from_station": "ZIZ",
+        "departure": "15:12",
+        "to_station": "MLW",
+        "arrival": "11:43"
+    },
+    {
+        "id": 776,
+        "train_name": "GMC",
+        "from_station": "SNN",
+        "departure": "13:32",
+        "to_station": "RIM",
+        "arrival": "15:29"
+    },
+    {
+        "id": 777,
+        "train_name": "Isuzu",
+        "from_station": "MMO",
+        "departure": "21:53",
+        "to_station": "SBH",
+        "arrival": "22:45"
+    },
+    {
+        "id": 778,
+        "train_name": "Lamborghini",
+        "from_station": "XVS",
+        "departure": "15:09",
+        "to_station": "LWH",
+        "arrival": "2:28"
+    },
+    {
+        "id": 779,
+        "train_name": "GMC",
+        "from_station": "LED",
+        "departure": "17:22",
+        "to_station": "SHF",
+        "arrival": "22:08"
+    },
+    {
+        "id": 780,
+        "train_name": "Bentley",
+        "from_station": "TOP",
+        "departure": "0:17",
+        "to_station": "MJJ",
+        "arrival": "3:00"
+    },
+    {
+        "id": 781,
+        "train_name": "Hyundai",
+        "from_station": "YMT",
+        "departure": "19:18",
+        "to_station": "YLL",
+        "arrival": "10:03"
+    },
+    {
+        "id": 782,
+        "train_name": "Buick",
+        "from_station": "SSI",
+        "departure": "16:03",
+        "to_station": "PTH",
+        "arrival": "9:36"
+    },
+    {
+        "id": 783,
+        "train_name": "Morgan",
+        "from_station": "IAN",
+        "departure": "5:05",
+        "to_station": "BAU",
+        "arrival": "23:29"
+    },
+    {
+        "id": 784,
+        "train_name": "GMC",
+        "from_station": "EPH",
+        "departure": "18:18",
+        "to_station": "DIP",
+        "arrival": "16:15"
+    },
+    {
+        "id": 785,
+        "train_name": "Ford",
+        "from_station": "SCC",
+        "departure": "1:02",
+        "to_station": "OFU",
+        "arrival": "23:25"
+    },
+    {
+        "id": 786,
+        "train_name": "Volkswagen",
+        "from_station": "LMD",
+        "departure": "12:57",
+        "to_station": "AIE",
+        "arrival": "19:27"
+    },
+    {
+        "id": 787,
+        "train_name": "Saab",
+        "from_station": "FFU",
+        "departure": "19:07",
+        "to_station": "NDI",
+        "arrival": "23:22"
+    },
+    {
+        "id": 788,
+        "train_name": "Toyota",
+        "from_station": "DDU",
+        "departure": "17:59",
+        "to_station": "DOS",
+        "arrival": "4:02"
+    },
+    {
+        "id": 789,
+        "train_name": "Audi",
+        "from_station": "SDL",
+        "departure": "11:55",
+        "to_station": "CLH",
+        "arrival": "20:52"
+    },
+    {
+        "id": 790,
+        "train_name": "Ford",
+        "from_station": "SJV",
+        "departure": "21:55",
+        "to_station": "SCC",
+        "arrival": "6:05"
+    },
+    {
+        "id": 791,
+        "train_name": "Mercedes-Benz",
+        "from_station": "BAQ",
+        "departure": "2:23",
+        "to_station": "IFA",
+        "arrival": "15:19"
+    },
+    {
+        "id": 792,
+        "train_name": "Ford",
+        "from_station": "0",
+        "departure": "16:55",
+        "to_station": "FMC",
+        "arrival": "6:59"
+    },
+    {
+        "id": 793,
+        "train_name": "Toyota",
+        "from_station": "SQX",
+        "departure": "13:19",
+        "to_station": "DNL",
+        "arrival": "20:11"
+    },
+    {
+        "id": 794,
+        "train_name": "BMW",
+        "from_station": "YPN",
+        "departure": "20:54",
+        "to_station": "BGQ",
+        "arrival": "0:18"
+    },
+    {
+        "id": 795,
+        "train_name": "Mitsubishi",
+        "from_station": "GUV",
+        "departure": "5:00",
+        "to_station": "RDN",
+        "arrival": "7:16"
+    },
+    {
+        "id": 796,
+        "train_name": "Mazda",
+        "from_station": "SEW",
+        "departure": "3:23",
+        "to_station": "KUU",
+        "arrival": "16:12"
+    },
+    {
+        "id": 797,
+        "train_name": "Ford",
+        "from_station": "HEK",
+        "departure": "13:52",
+        "to_station": "RKO",
+        "arrival": "10:42"
+    },
+    {
+        "id": 798,
+        "train_name": "Aston Martin",
+        "from_station": "KLX",
+        "departure": "2:02",
+        "to_station": "FCH",
+        "arrival": "6:39"
+    },
+    {
+        "id": 799,
+        "train_name": "Cadillac",
+        "from_station": "SGW",
+        "departure": "11:32",
+        "to_station": "GYG",
+        "arrival": "8:41"
+    },
+    {
+        "id": 800,
+        "train_name": "Mitsubishi",
+        "from_station": "PGB",
+        "departure": "12:18",
+        "to_station": "NLC",
+        "arrival": "9:39"
+    },
+    {
+        "id": 801,
+        "train_name": "MINI",
+        "from_station": "WFI",
+        "departure": "1:55",
+        "to_station": "EDB",
+        "arrival": "21:13"
+    },
+    {
+        "id": 802,
+        "train_name": "Ford",
+        "from_station": "ERH",
+        "departure": "14:32",
+        "to_station": "HTT",
+        "arrival": "20:58"
+    },
+    {
+        "id": 803,
+        "train_name": "Ford",
+        "from_station": "WLE",
+        "departure": "12:41",
+        "to_station": "GCY",
+        "arrival": "10:47"
+    },
+    {
+        "id": 804,
+        "train_name": "Honda",
+        "from_station": "DET",
+        "departure": "3:21",
+        "to_station": "HRA",
+        "arrival": "0:39"
+    },
+    {
+        "id": 805,
+        "train_name": "Pontiac",
+        "from_station": "TKR",
+        "departure": "6:32",
+        "to_station": "MLV",
+        "arrival": "11:30"
+    },
+    {
+        "id": 806,
+        "train_name": "Mercury",
+        "from_station": "IQM",
+        "departure": "12:18",
+        "to_station": "ABU",
+        "arrival": "11:17"
+    },
+    {
+        "id": 807,
+        "train_name": "Mercedes-Benz",
+        "from_station": "JKL",
+        "departure": "22:31",
+        "to_station": "TBN",
+        "arrival": "12:53"
+    },
+    {
+        "id": 808,
+        "train_name": "Mazda",
+        "from_station": "HWK",
+        "departure": "17:56",
+        "to_station": "AGR",
+        "arrival": "2:34"
+    },
+    {
+        "id": 809,
+        "train_name": "Honda",
+        "from_station": "DUE",
+        "departure": "15:56",
+        "to_station": "EWE",
+        "arrival": "13:33"
+    },
+    {
+        "id": 810,
+        "train_name": "Nissan",
+        "from_station": "SHT",
+        "departure": "9:11",
+        "to_station": "MZD",
+        "arrival": "14:23"
+    },
+    {
+        "id": 811,
+        "train_name": "Pontiac",
+        "from_station": "HAR",
+        "departure": "10:43",
+        "to_station": "WBW",
+        "arrival": "9:45"
+    },
+    {
+        "id": 812,
+        "train_name": "Audi",
+        "from_station": "RDN",
+        "departure": "13:46",
+        "to_station": "PTA",
+        "arrival": "18:59"
+    },
+    {
+        "id": 813,
+        "train_name": "Isuzu",
+        "from_station": "POV",
+        "departure": "10:01",
+        "to_station": "HIL",
+        "arrival": "18:50"
+    },
+    {
+        "id": 814,
+        "train_name": "Dodge",
+        "from_station": "LCG",
+        "departure": "20:35",
+        "to_station": "RSL",
+        "arrival": "11:40"
+    },
+    {
+        "id": 815,
+        "train_name": "Jaguar",
+        "from_station": "GNF",
+        "departure": "16:52",
+        "to_station": "AMH",
+        "arrival": "0:24"
+    },
+    {
+        "id": 816,
+        "train_name": "Buick",
+        "from_station": "PSP",
+        "departure": "22:36",
+        "to_station": "RRE",
+        "arrival": "3:21"
+    },
+    {
+        "id": 817,
+        "train_name": "Pontiac",
+        "from_station": "GKA",
+        "departure": "14:09",
+        "to_station": "MAD",
+        "arrival": "5:03"
+    },
+    {
+        "id": 818,
+        "train_name": "Honda",
+        "from_station": "TMG",
+        "departure": "19:24",
+        "to_station": "OKV",
+        "arrival": "10:39"
+    },
+    {
+        "id": 819,
+        "train_name": "Jaguar",
+        "from_station": "ULG",
+        "departure": "8:18",
+        "to_station": "MGF",
+        "arrival": "8:50"
+    },
+    {
+        "id": 820,
+        "train_name": "Dodge",
+        "from_station": "DEF",
+        "departure": "18:55",
+        "to_station": "BVS",
+        "arrival": "2:18"
+    },
+    {
+        "id": 821,
+        "train_name": "Ford",
+        "from_station": "THG",
+        "departure": "11:57",
+        "to_station": "AOL",
+        "arrival": "2:11"
+    },
+    {
+        "id": 822,
+        "train_name": "Ford",
+        "from_station": "NBS",
+        "departure": "11:56",
+        "to_station": "0",
+        "arrival": "20:15"
+    },
+    {
+        "id": 823,
+        "train_name": "Dodge",
+        "from_station": "BHY",
+        "departure": "7:48",
+        "to_station": "ZFD",
+        "arrival": "4:07"
+    },
+    {
+        "id": 824,
+        "train_name": "Pontiac",
+        "from_station": "CHH",
+        "departure": "15:06",
+        "to_station": "FUN",
+        "arrival": "5:57"
+    },
+    {
+        "id": 825,
+        "train_name": "Chrysler",
+        "from_station": "HTV",
+        "departure": "21:46",
+        "to_station": "KYS",
+        "arrival": "16:56"
+    },
+    {
+        "id": 826,
+        "train_name": "Isuzu",
+        "from_station": "CBT",
+        "departure": "4:29",
+        "to_station": "DRA",
+        "arrival": "15:25"
+    },
+    {
+        "id": 827,
+        "train_name": "Infiniti",
+        "from_station": "ONB",
+        "departure": "18:51",
+        "to_station": "RCQ",
+        "arrival": "5:43"
+    },
+    {
+        "id": 828,
+        "train_name": "Chevrolet",
+        "from_station": "KVB",
+        "departure": "17:27",
+        "to_station": "GOA",
+        "arrival": "20:57"
+    },
+    {
+        "id": 829,
+        "train_name": "Nissan",
+        "from_station": "BBN",
+        "departure": "0:59",
+        "to_station": "ACZ",
+        "arrival": "15:32"
+    },
+    {
+        "id": 830,
+        "train_name": "Ferrari",
+        "from_station": "AUT",
+        "departure": "9:41",
+        "to_station": "KBW",
+        "arrival": "15:23"
+    },
+    {
+        "id": 831,
+        "train_name": "Toyota",
+        "from_station": "UVE",
+        "departure": "0:11",
+        "to_station": "YGC",
+        "arrival": "11:42"
+    },
+    {
+        "id": 832,
+        "train_name": "Mazda",
+        "from_station": "LFM",
+        "departure": "5:13",
+        "to_station": "FLL",
+        "arrival": "18:23"
+    },
+    {
+        "id": 833,
+        "train_name": "Pontiac",
+        "from_station": "NHV",
+        "departure": "13:53",
+        "to_station": "CDW",
+        "arrival": "12:11"
+    },
+    {
+        "id": 834,
+        "train_name": "Kia",
+        "from_station": "AYQ",
+        "departure": "14:55",
+        "to_station": "DUG",
+        "arrival": "0:17"
+    },
+    {
+        "id": 835,
+        "train_name": "GMC",
+        "from_station": "TFF",
+        "departure": "10:44",
+        "to_station": "GDP",
+        "arrival": "22:31"
+    },
+    {
+        "id": 836,
+        "train_name": "Dodge",
+        "from_station": "LRV",
+        "departure": "12:45",
+        "to_station": "GRZ",
+        "arrival": "22:45"
+    },
+    {
+        "id": 837,
+        "train_name": "Infiniti",
+        "from_station": "YAQ",
+        "departure": "10:49",
+        "to_station": "MCV",
+        "arrival": "22:22"
+    },
+    {
+        "id": 838,
+        "train_name": "Dodge",
+        "from_station": "MRR",
+        "departure": "17:42",
+        "to_station": "HRG",
+        "arrival": "5:34"
+    },
+    {
+        "id": 839,
+        "train_name": "Cadillac",
+        "from_station": "RGN",
+        "departure": "3:48",
+        "to_station": "0",
+        "arrival": "14:17"
+    },
+    {
+        "id": 840,
+        "train_name": "Pontiac",
+        "from_station": "SJR",
+        "departure": "11:24",
+        "to_station": "WLL",
+        "arrival": "12:17"
+    },
+    {
+        "id": 841,
+        "train_name": "Acura",
+        "from_station": "LAQ",
+        "departure": "16:58",
+        "to_station": "OPS",
+        "arrival": "6:38"
+    },
+    {
+        "id": 842,
+        "train_name": "Chevrolet",
+        "from_station": "TLC",
+        "departure": "3:57",
+        "to_station": "BXW",
+        "arrival": "16:47"
+    },
+    {
+        "id": 843,
+        "train_name": "Chevrolet",
+        "from_station": "IXN",
+        "departure": "23:02",
+        "to_station": "SQW",
+        "arrival": "12:06"
+    },
+    {
+        "id": 844,
+        "train_name": "Hyundai",
+        "from_station": "ZAJ",
+        "departure": "12:55",
+        "to_station": "NIB",
+        "arrival": "3:47"
+    },
+    {
+        "id": 845,
+        "train_name": "Mazda",
+        "from_station": "KHD",
+        "departure": "22:00",
+        "to_station": "MEH",
+        "arrival": "14:03"
+    },
+    {
+        "id": 846,
+        "train_name": "BMW",
+        "from_station": "OHH",
+        "departure": "19:12",
+        "to_station": "PCU",
+        "arrival": "19:24"
+    },
+    {
+        "id": 847,
+        "train_name": "Mercedes-Benz",
+        "from_station": "WGP",
+        "departure": "6:35",
+        "to_station": "ARB",
+        "arrival": "18:14"
+    },
+    {
+        "id": 848,
+        "train_name": "GMC",
+        "from_station": "YMP",
+        "departure": "8:04",
+        "to_station": "NNU",
+        "arrival": "2:34"
+    },
+    {
+        "id": 849,
+        "train_name": "Suzuki",
+        "from_station": "NSY",
+        "departure": "3:24",
+        "to_station": "MVP",
+        "arrival": "12:44"
+    },
+    {
+        "id": 850,
+        "train_name": "GMC",
+        "from_station": "WNR",
+        "departure": "20:59",
+        "to_station": "TDT",
+        "arrival": "4:20"
+    },
+    {
+        "id": 851,
+        "train_name": "Volkswagen",
+        "from_station": "CMU",
+        "departure": "9:58",
+        "to_station": "SSB",
+        "arrival": "8:40"
+    },
+    {
+        "id": 852,
+        "train_name": "Mazda",
+        "from_station": "MMO",
+        "departure": "12:59",
+        "to_station": "ACZ",
+        "arrival": "0:01"
+    },
+    {
+        "id": 853,
+        "train_name": "Acura",
+        "from_station": "TQR",
+        "departure": "4:52",
+        "to_station": "PDN",
+        "arrival": "4:12"
+    },
+    {
+        "id": 854,
+        "train_name": "Honda",
+        "from_station": "MXM",
+        "departure": "13:44",
+        "to_station": "JAA",
+        "arrival": "23:48"
+    },
+    {
+        "id": 855,
+        "train_name": "Dodge",
+        "from_station": "NEN",
+        "departure": "0:44",
+        "to_station": "MXF",
+        "arrival": "10:27"
+    },
+    {
+        "id": 856,
+        "train_name": "Buick",
+        "from_station": "CMY",
+        "departure": "17:53",
+        "to_station": "ENB",
+        "arrival": "8:51"
+    },
+    {
+        "id": 857,
+        "train_name": "Volkswagen",
+        "from_station": "AKJ",
+        "departure": "5:08",
+        "to_station": "GDN",
+        "arrival": "6:43"
+    },
+    {
+        "id": 858,
+        "train_name": "Jaguar",
+        "from_station": "BMZ",
+        "departure": "15:07",
+        "to_station": "CZU",
+        "arrival": "20:17"
+    },
+    {
+        "id": 859,
+        "train_name": "Oldsmobile",
+        "from_station": "DIS",
+        "departure": "23:55",
+        "to_station": "HAS",
+        "arrival": "21:36"
+    },
+    {
+        "id": 860,
+        "train_name": "Pontiac",
+        "from_station": "URO",
+        "departure": "20:56",
+        "to_station": "LBX",
+        "arrival": "13:19"
+    },
+    {
+        "id": 861,
+        "train_name": "Volkswagen",
+        "from_station": "GFL",
+        "departure": "6:56",
+        "to_station": "DUN",
+        "arrival": "3:50"
+    },
+    {
+        "id": 862,
+        "train_name": "Chevrolet",
+        "from_station": "KQA",
+        "departure": "12:46",
+        "to_station": "JUA",
+        "arrival": "21:27"
+    },
+    {
+        "id": 863,
+        "train_name": "Ford",
+        "from_station": "NYE",
+        "departure": "5:43",
+        "to_station": "SIE",
+        "arrival": "14:01"
+    },
+    {
+        "id": 864,
+        "train_name": "BMW",
+        "from_station": "BIB",
+        "departure": "1:03",
+        "to_station": "STW",
+        "arrival": "2:15"
+    },
+    {
+        "id": 865,
+        "train_name": "Mazda",
+        "from_station": "ODE",
+        "departure": "22:06",
+        "to_station": "BKD",
+        "arrival": "1:40"
+    },
+    {
+        "id": 866,
+        "train_name": "Mercury",
+        "from_station": "OTL",
+        "departure": "1:58",
+        "to_station": "AVU",
+        "arrival": "16:21"
+    },
+    {
+        "id": 867,
+        "train_name": "Chevrolet",
+        "from_station": "TAU",
+        "departure": "2:22",
+        "to_station": "LOC",
+        "arrival": "7:45"
+    },
+    {
+        "id": 868,
+        "train_name": "Infiniti",
+        "from_station": "MQE",
+        "departure": "4:24",
+        "to_station": "ESU",
+        "arrival": "18:23"
+    },
+    {
+        "id": 869,
+        "train_name": "Lexus",
+        "from_station": "WAV",
+        "departure": "4:51",
+        "to_station": "OBX",
+        "arrival": "14:16"
+    },
+    {
+        "id": 870,
+        "train_name": "Chrysler",
+        "from_station": "THT",
+        "departure": "7:11",
+        "to_station": "CCY",
+        "arrival": "4:42"
+    },
+    {
+        "id": 871,
+        "train_name": "Kia",
+        "from_station": "0",
+        "departure": "11:36",
+        "to_station": "OSF",
+        "arrival": "4:24"
+    },
+    {
+        "id": 872,
+        "train_name": "Cadillac",
+        "from_station": "YQA",
+        "departure": "18:24",
+        "to_station": "EKB",
+        "arrival": "14:02"
+    },
+    {
+        "id": 873,
+        "train_name": "Lexus",
+        "from_station": "MRW",
+        "departure": "19:27",
+        "to_station": "HDN",
+        "arrival": "8:49"
+    },
+    {
+        "id": 874,
+        "train_name": "Scion",
+        "from_station": "ANU",
+        "departure": "14:42",
+        "to_station": "AKB",
+        "arrival": "7:42"
+    },
+    {
+        "id": 875,
+        "train_name": "Mitsubishi",
+        "from_station": "RBL",
+        "departure": "5:30",
+        "to_station": "BOH",
+        "arrival": "11:34"
+    },
+    {
+        "id": 876,
+        "train_name": "Suzuki",
+        "from_station": "PMX",
+        "departure": "5:31",
+        "to_station": "MQS",
+        "arrival": "2:11"
+    },
+    {
+        "id": 877,
+        "train_name": "Ford",
+        "from_station": "MZH",
+        "departure": "22:11",
+        "to_station": "RXE",
+        "arrival": "7:41"
+    },
+    {
+        "id": 878,
+        "train_name": "Toyota",
+        "from_station": "GHT",
+        "departure": "14:30",
+        "to_station": "CSH",
+        "arrival": "18:48"
+    },
+    {
+        "id": 879,
+        "train_name": "Volkswagen",
+        "from_station": "IKU",
+        "departure": "0:58",
+        "to_station": "LAJ",
+        "arrival": "5:09"
+    },
+    {
+        "id": 880,
+        "train_name": "Porsche",
+        "from_station": "SBV",
+        "departure": "8:35",
+        "to_station": "TSV",
+        "arrival": "4:04"
+    },
+    {
+        "id": 881,
+        "train_name": "Chevrolet",
+        "from_station": "LEQ",
+        "departure": "18:37",
+        "to_station": "TOJ",
+        "arrival": "17:27"
+    },
+    {
+        "id": 882,
+        "train_name": "Volkswagen",
+        "from_station": "KDQ",
+        "departure": "20:18",
+        "to_station": "LWM",
+        "arrival": "7:22"
+    },
+    {
+        "id": 883,
+        "train_name": "Honda",
+        "from_station": "IQQ",
+        "departure": "9:36",
+        "to_station": "BXY",
+        "arrival": "6:19"
+    },
+    {
+        "id": 884,
+        "train_name": "Ford",
+        "from_station": "CQF",
+        "departure": "20:15",
+        "to_station": "YPC",
+        "arrival": "12:12"
+    },
+    {
+        "id": 885,
+        "train_name": "Suzuki",
+        "from_station": "ATY",
+        "departure": "1:13",
+        "to_station": "SOA",
+        "arrival": "0:05"
+    },
+    {
+        "id": 886,
+        "train_name": "GMC",
+        "from_station": "MGU",
+        "departure": "17:36",
+        "to_station": "DBV",
+        "arrival": "21:52"
+    },
+    {
+        "id": 887,
+        "train_name": "Cadillac",
+        "from_station": "SMI",
+        "departure": "23:23",
+        "to_station": "ACV",
+        "arrival": "21:58"
+    },
+    {
+        "id": 888,
+        "train_name": "Buick",
+        "from_station": "XBG",
+        "departure": "11:58",
+        "to_station": "AOK",
+        "arrival": "5:07"
+    },
+    {
+        "id": 889,
+        "train_name": "Cadillac",
+        "from_station": "BIG",
+        "departure": "18:11",
+        "to_station": "MDJ",
+        "arrival": "18:15"
+    },
+    {
+        "id": 890,
+        "train_name": "Toyota",
+        "from_station": "YUL",
+        "departure": "4:33",
+        "to_station": "SYZ",
+        "arrival": "18:18"
+    },
+    {
+        "id": 891,
+        "train_name": "Lamborghini",
+        "from_station": "ZCO",
+        "departure": "13:18",
+        "to_station": "DJO",
+        "arrival": "20:33"
+    },
+    {
+        "id": 892,
+        "train_name": "Toyota",
+        "from_station": "BNA",
+        "departure": "15:44",
+        "to_station": "PDF",
+        "arrival": "1:24"
+    },
+    {
+        "id": 893,
+        "train_name": "Audi",
+        "from_station": "IKI",
+        "departure": "22:39",
+        "to_station": "VPE",
+        "arrival": "6:47"
+    },
+    {
+        "id": 894,
+        "train_name": "Mitsubishi",
+        "from_station": "0",
+        "departure": "4:32",
+        "to_station": "KDN",
+        "arrival": "3:14"
+    },
+    {
+        "id": 895,
+        "train_name": "Chevrolet",
+        "from_station": "BAX",
+        "departure": "16:18",
+        "to_station": "VAO",
+        "arrival": "16:25"
+    },
+    {
+        "id": 896,
+        "train_name": "Toyota",
+        "from_station": "BIK",
+        "departure": "8:00",
+        "to_station": "THZ",
+        "arrival": "7:48"
+    },
+    {
+        "id": 897,
+        "train_name": "Ram",
+        "from_station": "DCN",
+        "departure": "10:41",
+        "to_station": "SYR",
+        "arrival": "17:15"
+    },
+    {
+        "id": 898,
+        "train_name": "Lexus",
+        "from_station": "FTE",
+        "departure": "3:45",
+        "to_station": "YSA",
+        "arrival": "16:48"
+    },
+    {
+        "id": 899,
+        "train_name": "Honda",
+        "from_station": "KYK",
+        "departure": "21:06",
+        "to_station": "WEH",
+        "arrival": "1:28"
+    },
+    {
+        "id": 900,
+        "train_name": "Mazda",
+        "from_station": "BAU",
+        "departure": "12:00",
+        "to_station": "ANL",
+        "arrival": "1:17"
+    },
+    {
+        "id": 901,
+        "train_name": "Oldsmobile",
+        "from_station": "YXZ",
+        "departure": "16:22",
+        "to_station": "MMQ",
+        "arrival": "5:00"
+    },
+    {
+        "id": 902,
+        "train_name": "Nissan",
+        "from_station": "ISE",
+        "departure": "6:38",
+        "to_station": "NGA",
+        "arrival": "15:54"
+    },
+    {
+        "id": 903,
+        "train_name": "Infiniti",
+        "from_station": "SPT",
+        "departure": "15:23",
+        "to_station": "BIT",
+        "arrival": "9:07"
+    },
+    {
+        "id": 904,
+        "train_name": "Lexus",
+        "from_station": "LTO",
+        "departure": "3:07",
+        "to_station": "ATQ",
+        "arrival": "8:50"
+    },
+    {
+        "id": 905,
+        "train_name": "Ford",
+        "from_station": "WHO",
+        "departure": "20:57",
+        "to_station": "0",
+        "arrival": "5:58"
+    },
+    {
+        "id": 906,
+        "train_name": "Pontiac",
+        "from_station": "OTL",
+        "departure": "11:54",
+        "to_station": "LWC",
+        "arrival": "21:29"
+    },
+    {
+        "id": 907,
+        "train_name": "Fairthorpe",
+        "from_station": "RPA",
+        "departure": "15:31",
+        "to_station": "JXA",
+        "arrival": "15:24"
+    },
+    {
+        "id": 908,
+        "train_name": "Lotus",
+        "from_station": "WMH",
+        "departure": "14:54",
+        "to_station": "NGQ",
+        "arrival": "12:01"
+    },
+    {
+        "id": 909,
+        "train_name": "Toyota",
+        "from_station": "GSP",
+        "departure": "21:03",
+        "to_station": "OMG",
+        "arrival": "6:21"
+    },
+    {
+        "id": 910,
+        "train_name": "Mercury",
+        "from_station": "KKA",
+        "departure": "5:26",
+        "to_station": "TBW",
+        "arrival": "11:39"
+    },
+    {
+        "id": 911,
+        "train_name": "Toyota",
+        "from_station": "CFN",
+        "departure": "20:49",
+        "to_station": "HAX",
+        "arrival": "9:24"
+    },
+    {
+        "id": 912,
+        "train_name": "Chevrolet",
+        "from_station": "IBB",
+        "departure": "15:35",
+        "to_station": "NIO",
+        "arrival": "20:10"
+    },
+    {
+        "id": 913,
+        "train_name": "Jaguar",
+        "from_station": "MAF",
+        "departure": "22:29",
+        "to_station": "SGR",
+        "arrival": "21:10"
+    },
+    {
+        "id": 914,
+        "train_name": "Mazda",
+        "from_station": "ATY",
+        "departure": "23:49",
+        "to_station": "AFO",
+        "arrival": "10:35"
+    },
+    {
+        "id": 915,
+        "train_name": "Nissan",
+        "from_station": "MCN",
+        "departure": "18:49",
+        "to_station": "STZ",
+        "arrival": "18:59"
+    },
+    {
+        "id": 916,
+        "train_name": "Dodge",
+        "from_station": "FMS",
+        "departure": "15:00",
+        "to_station": "VAW",
+        "arrival": "3:39"
+    },
+    {
+        "id": 917,
+        "train_name": "Toyota",
+        "from_station": "MLC",
+        "departure": "9:41",
+        "to_station": "IFP",
+        "arrival": "16:44"
+    },
+    {
+        "id": 918,
+        "train_name": "Lexus",
+        "from_station": "YLI",
+        "departure": "8:02",
+        "to_station": "TNM",
+        "arrival": "0:07"
+    },
+    {
+        "id": 919,
+        "train_name": "Ford",
+        "from_station": "HPA",
+        "departure": "3:06",
+        "to_station": "PWQ",
+        "arrival": "2:28"
+    },
+    {
+        "id": 920,
+        "train_name": "BMW",
+        "from_station": "OML",
+        "departure": "10:52",
+        "to_station": "XFN",
+        "arrival": "16:06"
+    },
+    {
+        "id": 921,
+        "train_name": "Dodge",
+        "from_station": "NDR",
+        "departure": "23:52",
+        "to_station": "CDO",
+        "arrival": "20:34"
+    },
+    {
+        "id": 922,
+        "train_name": "Mercedes-Benz",
+        "from_station": "SPE",
+        "departure": "9:32",
+        "to_station": "WHU",
+        "arrival": "21:46"
+    },
+    {
+        "id": 923,
+        "train_name": "Acura",
+        "from_station": "DZU",
+        "departure": "0:05",
+        "to_station": "CGJ",
+        "arrival": "5:39"
+    },
+    {
+        "id": 924,
+        "train_name": "Mercury",
+        "from_station": "WSR",
+        "departure": "23:07",
+        "to_station": "ZJI",
+        "arrival": "1:54"
+    },
+    {
+        "id": 925,
+        "train_name": "BMW",
+        "from_station": "OES",
+        "departure": "1:06",
+        "to_station": "ETS",
+        "arrival": "1:12"
+    },
+    {
+        "id": 926,
+        "train_name": "Chevrolet",
+        "from_station": "YCQ",
+        "departure": "14:28",
+        "to_station": "KIS",
+        "arrival": "23:17"
+    },
+    {
+        "id": 927,
+        "train_name": "Dodge",
+        "from_station": "LUN",
+        "departure": "3:49",
+        "to_station": "MII",
+        "arrival": "6:09"
+    },
+    {
+        "id": 928,
+        "train_name": "Infiniti",
+        "from_station": "NUU",
+        "departure": "20:04",
+        "to_station": "NTX",
+        "arrival": "21:43"
+    },
+    {
+        "id": 929,
+        "train_name": "Chevrolet",
+        "from_station": "PHN",
+        "departure": "18:42",
+        "to_station": "OFI",
+        "arrival": "8:35"
+    },
+    {
+        "id": 930,
+        "train_name": "Chevrolet",
+        "from_station": "PCT",
+        "departure": "3:43",
+        "to_station": "SBQ",
+        "arrival": "14:40"
+    },
+    {
+        "id": 931,
+        "train_name": "Lexus",
+        "from_station": "DXR",
+        "departure": "17:59",
+        "to_station": "BMK",
+        "arrival": "5:26"
+    },
+    {
+        "id": 932,
+        "train_name": "Porsche",
+        "from_station": "SKE",
+        "departure": "7:18",
+        "to_station": "TMT",
+        "arrival": "12:31"
+    },
+    {
+        "id": 933,
+        "train_name": "Chevrolet",
+        "from_station": "NAT",
+        "departure": "12:41",
+        "to_station": "WLP",
+        "arrival": "8:12"
+    },
+    {
+        "id": 934,
+        "train_name": "Mercedes-Benz",
+        "from_station": "CRJ",
+        "departure": "3:07",
+        "to_station": "UEN",
+        "arrival": "20:58"
+    },
+    {
+        "id": 935,
+        "train_name": "Toyota",
+        "from_station": "0",
+        "departure": "4:16",
+        "to_station": "LTK",
+        "arrival": "12:34"
+    },
+    {
+        "id": 936,
+        "train_name": "Pontiac",
+        "from_station": "LSM",
+        "departure": "20:58",
+        "to_station": "TDO",
+        "arrival": "8:03"
+    },
+    {
+        "id": 937,
+        "train_name": "Fiat",
+        "from_station": "JCK",
+        "departure": "14:27",
+        "to_station": "LCA",
+        "arrival": "0:15"
+    },
+    {
+        "id": 938,
+        "train_name": "BMW",
+        "from_station": "NLG",
+        "departure": "2:41",
+        "to_station": "ASZ",
+        "arrival": "7:52"
+    },
+    {
+        "id": 939,
+        "train_name": "Chevrolet",
+        "from_station": "BTJ",
+        "departure": "19:35",
+        "to_station": "AMC",
+        "arrival": "16:43"
+    },
+    {
+        "id": 940,
+        "train_name": "Ford",
+        "from_station": "AMW",
+        "departure": "22:36",
+        "to_station": "MEM",
+        "arrival": "5:57"
+    },
+    {
+        "id": 941,
+        "train_name": "Ford",
+        "from_station": "SZQ",
+        "departure": "2:17",
+        "to_station": "WGT",
+        "arrival": "7:59"
+    },
+    {
+        "id": 942,
+        "train_name": "Dodge",
+        "from_station": "COB",
+        "departure": "1:02",
+        "to_station": "REI",
+        "arrival": "21:30"
+    },
+    {
+        "id": 943,
+        "train_name": "Ford",
+        "from_station": "YOG",
+        "departure": "18:19",
+        "to_station": "OBY",
+        "arrival": "14:15"
+    },
+    {
+        "id": 944,
+        "train_name": "Mitsubishi",
+        "from_station": "PGB",
+        "departure": "18:43",
+        "to_station": "LQK",
+        "arrival": "3:19"
+    },
+    {
+        "id": 945,
+        "train_name": "BMW",
+        "from_station": "PYL",
+        "departure": "3:58",
+        "to_station": "LNB",
+        "arrival": "13:52"
+    },
+    {
+        "id": 946,
+        "train_name": "Volvo",
+        "from_station": "KJH",
+        "departure": "9:40",
+        "to_station": "EDW",
+        "arrival": "3:55"
+    },
+    {
+        "id": 947,
+        "train_name": "Nissan",
+        "from_station": "WGN",
+        "departure": "2:38",
+        "to_station": "ONB",
+        "arrival": "23:07"
+    },
+    {
+        "id": 948,
+        "train_name": "Lexus",
+        "from_station": "YGZ",
+        "departure": "18:13",
+        "to_station": "CEZ",
+        "arrival": "6:29"
+    },
+    {
+        "id": 949,
+        "train_name": "Jeep",
+        "from_station": "JER",
+        "departure": "23:06",
+        "to_station": "PRX",
+        "arrival": "1:30"
+    },
+    {
+        "id": 950,
+        "train_name": "Audi",
+        "from_station": "CPR",
+        "departure": "18:37",
+        "to_station": "APU",
+        "arrival": "0:19"
+    },
+    {
+        "id": 951,
+        "train_name": "Toyota",
+        "from_station": "THK",
+        "departure": "17:56",
+        "to_station": "LPG",
+        "arrival": "10:48"
+    },
+    {
+        "id": 952,
+        "train_name": "Volvo",
+        "from_station": "BIS",
+        "departure": "18:50",
+        "to_station": "HNL",
+        "arrival": "23:20"
+    },
+    {
+        "id": 953,
+        "train_name": "Mazda",
+        "from_station": "SBU",
+        "departure": "1:58",
+        "to_station": "GRR",
+        "arrival": "22:10"
+    },
+    {
+        "id": 954,
+        "train_name": "Hyundai",
+        "from_station": "HSI",
+        "departure": "18:44",
+        "to_station": "MHV",
+        "arrival": "12:10"
+    },
+    {
+        "id": 955,
+        "train_name": "Chevrolet",
+        "from_station": "PGR",
+        "departure": "8:07",
+        "to_station": "WMX",
+        "arrival": "2:45"
+    },
+    {
+        "id": 956,
+        "train_name": "BMW",
+        "from_station": "BHK",
+        "departure": "20:55",
+        "to_station": "BBE",
+        "arrival": "14:45"
+    },
+    {
+        "id": 957,
+        "train_name": "Ferrari",
+        "from_station": "RHT",
+        "departure": "7:31",
+        "to_station": "BJA",
+        "arrival": "8:15"
+    },
+    {
+        "id": 958,
+        "train_name": "Lotus",
+        "from_station": "COY",
+        "departure": "11:29",
+        "to_station": "BMK",
+        "arrival": "22:46"
+    },
+    {
+        "id": 959,
+        "train_name": "Mercedes-Benz",
+        "from_station": "BST",
+        "departure": "9:13",
+        "to_station": "GEM",
+        "arrival": "3:34"
+    },
+    {
+        "id": 960,
+        "train_name": "Audi",
+        "from_station": "PNU",
+        "departure": "19:10",
+        "to_station": "DYA",
+        "arrival": "14:11"
+    },
+    {
+        "id": 961,
+        "train_name": "Buick",
+        "from_station": "NAD",
+        "departure": "18:48",
+        "to_station": "THD",
+        "arrival": "22:13"
+    },
+    {
+        "id": 962,
+        "train_name": "Toyota",
+        "from_station": "YGZ",
+        "departure": "9:56",
+        "to_station": "SSL",
+        "arrival": "2:20"
+    },
+    {
+        "id": 963,
+        "train_name": "Kia",
+        "from_station": "HAF",
+        "departure": "19:46",
+        "to_station": "OFI",
+        "arrival": "3:51"
+    },
+    {
+        "id": 964,
+        "train_name": "Mitsubishi",
+        "from_station": "SEN",
+        "departure": "18:48",
+        "to_station": "WBO",
+        "arrival": "16:52"
+    },
+    {
+        "id": 965,
+        "train_name": "Lexus",
+        "from_station": "GDW",
+        "departure": "12:04",
+        "to_station": "RIH",
+        "arrival": "10:34"
+    },
+    {
+        "id": 966,
+        "train_name": "Ford",
+        "from_station": "LAX",
+        "departure": "20:32",
+        "to_station": "VRL",
+        "arrival": "19:33"
+    },
+    {
+        "id": 967,
+        "train_name": "Cadillac",
+        "from_station": "TOX",
+        "departure": "14:11",
+        "to_station": "ARL",
+        "arrival": "17:53"
+    },
+    {
+        "id": 968,
+        "train_name": "Pontiac",
+        "from_station": "SRH",
+        "departure": "4:55",
+        "to_station": "CIK",
+        "arrival": "20:28"
+    },
+    {
+        "id": 969,
+        "train_name": "Audi",
+        "from_station": "CPU",
+        "departure": "8:39",
+        "to_station": "MGV",
+        "arrival": "22:16"
+    },
+    {
+        "id": 970,
+        "train_name": "Chrysler",
+        "from_station": "PZK",
+        "departure": "0:41",
+        "to_station": "SJY",
+        "arrival": "1:30"
+    },
+    {
+        "id": 971,
+        "train_name": "Oldsmobile",
+        "from_station": "BKJ",
+        "departure": "1:49",
+        "to_station": "INS",
+        "arrival": "4:13"
+    },
+    {
+        "id": 972,
+        "train_name": "Ford",
+        "from_station": "SUB",
+        "departure": "23:10",
+        "to_station": "MBD",
+        "arrival": "18:12"
+    },
+    {
+        "id": 973,
+        "train_name": "Mitsubishi",
+        "from_station": "YPW",
+        "departure": "1:14",
+        "to_station": "KKN",
+        "arrival": "23:37"
+    },
+    {
+        "id": 974,
+        "train_name": "Mercury",
+        "from_station": "JIA",
+        "departure": "22:12",
+        "to_station": "BIG",
+        "arrival": "15:57"
+    },
+    {
+        "id": 975,
+        "train_name": "Ram",
+        "from_station": "TBN",
+        "departure": "23:52",
+        "to_station": "YQB",
+        "arrival": "1:31"
+    },
+    {
+        "id": 976,
+        "train_name": "GMC",
+        "from_station": "ULG",
+        "departure": "21:58",
+        "to_station": "PRG",
+        "arrival": "23:58"
+    },
+    {
+        "id": 977,
+        "train_name": "Isuzu",
+        "from_station": "SVX",
+        "departure": "17:55",
+        "to_station": "AFN",
+        "arrival": "21:17"
+    },
+    {
+        "id": 978,
+        "train_name": "Jeep",
+        "from_station": "ONQ",
+        "departure": "19:27",
+        "to_station": "ECI",
+        "arrival": "8:09"
+    },
+    {
+        "id": 979,
+        "train_name": "Audi",
+        "from_station": "DIE",
+        "departure": "8:07",
+        "to_station": "HUI",
+        "arrival": "3:10"
+    },
+    {
+        "id": 980,
+        "train_name": "Mercury",
+        "from_station": "LBA",
+        "departure": "21:36",
+        "to_station": "BHK",
+        "arrival": "2:46"
+    },
+    {
+        "id": 981,
+        "train_name": "Dodge",
+        "from_station": "KPS",
+        "departure": "15:33",
+        "to_station": "OAL",
+        "arrival": "22:50"
+    },
+    {
+        "id": 982,
+        "train_name": "Mitsubishi",
+        "from_station": "YZY",
+        "departure": "12:23",
+        "to_station": "FIN",
+        "arrival": "2:24"
+    },
+    {
+        "id": 983,
+        "train_name": "Toyota",
+        "from_station": "SWJ",
+        "departure": "4:41",
+        "to_station": "UKN",
+        "arrival": "9:49"
+    },
+    {
+        "id": 984,
+        "train_name": "Dodge",
+        "from_station": "RBK",
+        "departure": "20:21",
+        "to_station": "EGE",
+        "arrival": "23:01"
+    },
+    {
+        "id": 985,
+        "train_name": "BMW",
+        "from_station": "YYS",
+        "departure": "12:48",
+        "to_station": "LFK",
+        "arrival": "12:56"
+    },
+    {
+        "id": 986,
+        "train_name": "Mazda",
+        "from_station": "VYS",
+        "departure": "13:01",
+        "to_station": "MOM",
+        "arrival": "23:38"
+    },
+    {
+        "id": 987,
+        "train_name": "Audi",
+        "from_station": "NUF",
+        "departure": "8:24",
+        "to_station": "PAA",
+        "arrival": "7:23"
+    },
+    {
+        "id": 988,
+        "train_name": "Pontiac",
+        "from_station": "NGL",
+        "departure": "1:46",
+        "to_station": "TMY",
+        "arrival": "11:44"
+    },
+    {
+        "id": 989,
+        "train_name": "Lincoln",
+        "from_station": "TJB",
+        "departure": "8:09",
+        "to_station": "SMM",
+        "arrival": "7:31"
+    },
+    {
+        "id": 990,
+        "train_name": "Jeep",
+        "from_station": "QGF",
+        "departure": "7:37",
+        "to_station": "MGM",
+        "arrival": "12:29"
+    },
+    {
+        "id": 991,
+        "train_name": "Toyota",
+        "from_station": "LCR",
+        "departure": "20:26",
+        "to_station": "YMM",
+        "arrival": "20:19"
+    },
+    {
+        "id": 992,
+        "train_name": "Maserati",
+        "from_station": "FPY",
+        "departure": "7:29",
+        "to_station": "HES",
+        "arrival": "8:06"
+    },
+    {
+        "id": 993,
+        "train_name": "Jaguar",
+        "from_station": "ITE",
+        "departure": "3:32",
+        "to_station": "THB",
+        "arrival": "23:27"
+    },
+    {
+        "id": 994,
+        "train_name": "Mercedes-Benz",
+        "from_station": "KHC",
+        "departure": "7:47",
+        "to_station": "PCJ",
+        "arrival": "16:35"
+    },
+    {
+        "id": 995,
+        "train_name": "Buick",
+        "from_station": "RUM",
+        "departure": "8:36",
+        "to_station": "GBE",
+        "arrival": "13:43"
+    },
+    {
+        "id": 996,
+        "train_name": "Land Rover",
+        "from_station": "EPS",
+        "departure": "1:53",
+        "to_station": "JLR",
+        "arrival": "18:19"
+    },
+    {
+        "id": 997,
+        "train_name": "GMC",
+        "from_station": "KEY",
+        "departure": "8:57",
+        "to_station": "BBM",
+        "arrival": "12:50"
+    },
+    {
+        "id": 998,
+        "train_name": "Lincoln",
+        "from_station": "CPP",
+        "departure": "14:05",
+        "to_station": "UZM",
+        "arrival": "12:49"
+    },
+    {
+        "id": 999,
+        "train_name": "Kia",
+        "from_station": "KHI",
+        "departure": "8:35",
+        "to_station": "TSM",
+        "arrival": "23:17"
+    },
+    {
+        "id": 1000,
+        "train_name": "Chrysler",
+        "from_station": "AHS",
+        "departure": "8:36",
+        "to_station": "YIV",
+        "arrival": "7:06"
+    }
+]
