@@ -9,7 +9,7 @@ const readJsonFile = (filePath) => {
 		return null;
 	}
 };
-const filepath = "./data2.json";
+const filepath = "./data.json";
 const data = readJsonFile(filepath);
 
 module.exports = data;
