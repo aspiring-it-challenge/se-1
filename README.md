@@ -16,34 +16,7 @@ Express js and MongoDB
 
 ## API Documentation
 
-1. get all train schedules
-
-```
-GET /api/schedules
-```
-
-2. get train schedule by train name
-
-```
-GET /api/schedules/:trainName
-```
-
-3. get train schedule by specify the source and destination, also the departure time and arrival time
-
-```
-GET /api/schedules?from={source}&to={destination}&range1={departureTime}&range2={arrivalTime}
-```
-
-4. update train schedule by train name
-
-```
-PATCH /api/schedules/:trainName
-
-body: {
-    "departure": "string",
-    "arrival": "string",
-}
-```
+Check out the [API Documentation](./api-docs.md) for more details.
 
 ## How to run the project🚀
 
